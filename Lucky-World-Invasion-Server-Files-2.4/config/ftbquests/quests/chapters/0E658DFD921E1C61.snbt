@@ -1,0 +1,255 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0E658DFD921E1C61"
+	group: ""
+	icon: "minecraft:writable_book"
+	id: "0E658DFD921E1C61"
+	images: [
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/written_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/writable_book"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{ftbquests.chapter.0E658DFD921E1C61.quest1.description1}"]
+			id: "5EACDF0C6526D4AC"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "130F9688131872C8"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest1.task.title1}"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["{ftbquests.chapter.0E658DFD921E1C61.quest2.description1}"]
+			id: "41A66B42247BCB32"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "6291560C398C3A4E"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest2.task.title1}"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["{ftbquests.chapter.0E658DFD921E1C61.quest3.description1}"]
+			id: "44B07A4C53395745"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "0F587F01B1AE5451"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest3.task.title1}"
+				type: "custom"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.0E658DFD921E1C61.quest4.description1}"
+				"{@pagebreak}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest4.description2}"
+			]
+			id: "0EF862BA89DA5CB4"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "5B5332052B0B0CEF"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest4.task.title1}"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.0E658DFD921E1C61.quest5.description1}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest5.description2}"
+			]
+			id: "1B34E7B5E5A9E058"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "2133960ECB8A1483"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest5.task.title1}"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: ["{ftbquests.chapter.0E658DFD921E1C61.quest6.description1}"]
+			id: "3E6C6DE3BA7067CB"
+			rewards: [
+				{
+					id: "3AC15B0664BA43A2"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E9EB312E42182A0"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "l2backpack:backpack_guide"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7774FF056338D094"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "storagenetwork:network_book"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B43FFF7778F6DCC"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "apotheosis:apoth_chronicle"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "44149D4C38C5056C"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest6.task.title1}"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.0E658DFD921E1C61.quest7.description1}"
+				""
+				"{ftbquests.chapter.0E658DFD921E1C61.quest7.description2}"
+			]
+			id: "7DD56F544AB1264E"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "1847352CCE455B34"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest7.task.title1}"
+				type: "custom"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description1}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description2}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description3}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description4}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description5}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description6}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description7}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description8}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description9}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description10}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description11}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description12}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description13}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description14}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description15}"
+				"{ftbquests.chapter.0E658DFD921E1C61.quest8.description16}"
+			]
+			id: "6933A1893D8100AA"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "1E6A1C52FE288A24"
+				title: "{ftbquests.chapter.0E658DFD921E1C61.quest8.task.title1}"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+	title: "{ftbquests.chapter.0E658DFD921E1C61.title}"
+}

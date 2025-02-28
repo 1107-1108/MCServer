@@ -1,0 +1,2585 @@
+{
+	autofocus_id: "47659F69771AAE88"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "244F72D6CE564C7E"
+	group: "7E80DA01FF9543AE"
+	icon: "minecraft:red_bed"
+	id: "244F72D6CE564C7E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description2}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description3}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description4}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description5}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description6}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest1.description7}"
+			]
+			id: "47659F69771AAE88"
+			rewards: [
+				{
+					count: 10
+					id: "55F459F5973BD76F"
+					item: "minecraft:bread"
+					type: "item"
+				}
+				{
+					id: "6C50371DC926A9C7"
+					item: {
+						Count: 1
+						id: "kubejs:lucky_gem_pickaxe_imitation"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A7E2DE2DD3B70FF"
+					item: "kubejs:bad_apple"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "0D139C317179B6FA"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest1.task.title1}"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41130ECE40DADFE8"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest2.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest2.description2}"
+			]
+			id: "366183B17B54A049"
+			tasks: [{
+				count: 5L
+				id: "1AB6E96342A006C1"
+				item: { Count: 5, id: "yakurum:water_ball" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["366183B17B54A049"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest3.description1}"]
+			id: "68689D8E3CAF7E99"
+			tasks: [{
+				id: "5E3BAB90D9F13A06"
+				item: "yakurum:water_relic"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest4.description1}"]
+			id: "649EE3EE9BF694C7"
+			tasks: [{
+				count: 10L
+				id: "33FA8FC020A6B9E6"
+				item: "yakurum:crystal_gem"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest5.description1}"]
+			id: "52D716130BB578AB"
+			tasks: [{
+				id: "5A2C2ECE2D228B67"
+				item: "yakurum:aquamarine"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["41130ECE40DADFE8"]
+			id: "05F773D954CD6E96"
+			tasks: [{
+				id: "1967CC73F94800FB"
+				item: "yakurum:triton_scale_shard"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest7.description1}"]
+			id: "1C24CD888C2AFB0C"
+			tasks: [{
+				id: "2B76C7B2C822DBBA"
+				item: {
+					Count: 1
+					id: "yakurum:triton_trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest8.description1}"]
+			id: "6509BDD680DDF549"
+			tasks: [{
+				id: "6AC0A80E4D44732C"
+				item: "yakurum:pearl"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest9.description1}"]
+			id: "031A90B880D7FF7D"
+			tasks: [{
+				id: "5A72E082EC771A24"
+				item: "yakurum:coral_crystal"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest10.description1}"]
+			id: "5D77C61AB0741D55"
+			tasks: [{
+				count: 32L
+				id: "2D287ECEEF54875D"
+				item: "yakurum:bitominous_coal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest11.description1}"]
+			id: "40B8830CF64F6DAC"
+			tasks: [{
+				id: "4B79C8B86D2A3A24"
+				item: "yakurum:robot_guardian_on"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest12.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest12.description2}"
+			]
+			id: "1B9078DA25A57D59"
+			tasks: [
+				{
+					id: "3B7AE945362A3DA1"
+					item: {
+						Count: 1
+						id: "yakurum:pearl_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38AE154C7C064364"
+					item: {
+						Count: 1
+						id: "yakurum:pearl_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09CC28D11467A7E8"
+					item: {
+						Count: 1
+						id: "yakurum:pearl_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C95519D2B35B325"
+					item: {
+						Count: 1
+						id: "yakurum:pearl_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest13.description1}"]
+			id: "09D0141B586C37B8"
+			tasks: [
+				{
+					id: "1C2A23F3E91854CE"
+					item: {
+						Count: 1
+						id: "yakurum:frostarce_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BEE50FBB89DE83F"
+					item: {
+						Count: 1
+						id: "yakurum:frostarce_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1477F268F444B3DC"
+					item: {
+						Count: 1
+						id: "yakurum:frostarce_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "741D8FE5DC489A50"
+					item: {
+						Count: 1
+						id: "yakurum:frostarce_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest14.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest14.description2}"
+			]
+			id: "23291483A45884EB"
+			tasks: [
+				{
+					id: "1D9F2B441C6B824A"
+					item: {
+						Count: 1
+						id: "yakurum:coral_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "484DE469AFCEB49F"
+					item: {
+						Count: 1
+						id: "yakurum:coral_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3756321C01BE822A"
+					item: {
+						Count: 1
+						id: "yakurum:coral_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F63D57E880C56AC"
+					item: {
+						Count: 1
+						id: "yakurum:coral_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest15.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest15.description2}"
+			]
+			id: "67FF829D34750612"
+			tasks: [
+				{
+					id: "672DA3D8028B3331"
+					item: {
+						Count: 1
+						id: "yakurum:prismarine_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "304726317377B7AF"
+					item: {
+						Count: 1
+						id: "yakurum:prismarine_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F1038066CC8F1FA"
+					item: {
+						Count: 1
+						id: "yakurum:prismarine_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "201C53178EAFFF31"
+					item: {
+						Count: 1
+						id: "yakurum:prismarine_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest16.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest16.description2}"
+			]
+			id: "4A4EBB4FD69E3E00"
+			tasks: [
+				{
+					id: "05646A70B843A3D5"
+					item: {
+						Count: 1
+						id: "yakurum:guardian_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "385AFE1DBDC74C73"
+					item: {
+						Count: 1
+						id: "yakurum:guardian_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A3496D417E17C91"
+					item: {
+						Count: 1
+						id: "yakurum:guardian_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "117311EA68377309"
+					item: {
+						Count: 1
+						id: "yakurum:guardian_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest17.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest17.description2}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest17.description3}"
+			]
+			id: "12650DEDBD985DB3"
+			tasks: [
+				{
+					id: "5FA1C9A8C52BBD6F"
+					item: {
+						Count: 1
+						id: "yakurum:crystal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6858AEA72659C039"
+					item: {
+						Count: 1
+						id: "yakurum:crystal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "303113FF08E219B9"
+					item: {
+						Count: 1
+						id: "yakurum:crystal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2576108A7E8B16AB"
+					item: {
+						Count: 1
+						id: "yakurum:crystal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest18.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest18.description2}"
+			]
+			id: "5DD79A6E5120D2FC"
+			tasks: [
+				{
+					id: "1BC8CF3C02F37CBA"
+					item: {
+						Count: 1
+						id: "yakurum:aquamarine_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E580A4228BAB520"
+					item: {
+						Count: 1
+						id: "yakurum:aquamarine_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11D2ECC44EFD87C4"
+					item: {
+						Count: 1
+						id: "yakurum:aquamarine_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A9D2CD038C9921F"
+					item: {
+						Count: 1
+						id: "yakurum:aquamarine_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest19.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest19.description2}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest19.description3}"
+			]
+			id: "15870A308DB5754C"
+			tasks: [
+				{
+					id: "4A79F97D28C68A95"
+					item: {
+						Count: 1
+						id: "yakurum:water_helmet"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "yakurum:maritime_restoration"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F5D00A5F5A9FDCB"
+					item: {
+						Count: 1
+						id: "yakurum:water_chestplate"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "yakurum:maritime_restoration"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "788F4DEBA0353B4E"
+					item: {
+						Count: 1
+						id: "yakurum:water_leggings"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "yakurum:maritime_restoration"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "318EA0B6F17D03B6"
+					item: {
+						Count: 1
+						id: "yakurum:water_boots"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "yakurum:maritime_restoration"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest20.description1}"]
+			id: "02D8AAC65024C216"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06A8AEF95DC1EBB4"
+				table_id: 4928144742279183137L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "3FDB51AB48C7182E"
+				item: {
+					Count: 1
+					id: "minecraft:shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["02D8AAC65024C216"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest21.description1}"]
+			id: "37E9D6D3E5611EF9"
+			tasks: [{
+				id: "19EA72CC363702C6"
+				item: {
+					Count: 1
+					id: "yakurum:emerald_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["47659F69771AAE88"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest22.description1}"]
+			id: "5ED9A2B845F1A876"
+			tasks: [{
+				id: "796D4AFE03566ED4"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest22.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["33FFE7CF9DF42239"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest23.description1}"]
+			id: "5AA66D046585F6E7"
+			tasks: [{
+				id: "528197C48D7A27AD"
+				item: "minecraft:ender_pearl"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["7EF0DA339D844345"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest24.description1}"]
+			id: "475C9664112DE75F"
+			tasks: [{
+				id: "7734CF1658CC2099"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "waystones:waystones"
+					}
+				}
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest24.task.title1}"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["5AA66D046585F6E7"]
+			id: "7EF0DA339D844345"
+			tasks: [{
+				id: "7A5AB04C69E4C852"
+				item: {
+					Count: 1
+					id: "waystones:warp_stone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["50008EA2A0D5794F"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest26.description1}"]
+			id: "783575CD020F66B0"
+			tasks: [{
+				id: "37ECBDEA01436BCC"
+				item: "l2backpack:ender_pocket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2EAF3D40402825FE"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest27.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest27.description2}"
+			]
+			id: "19F3508264F3C52E"
+			tasks: [{
+				icon: "super_block_world:toadstone_bricks"
+				id: "6C97D7271DAC8B3C"
+				structure: "super_block_world:brick_fortress_overworld"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest27.task.title1}"
+				type: "structure"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CC0A89978C6666B"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest28.description1}"]
+			id: "50C48EC5A65EE4D2"
+			tasks: [{
+				id: "038AE4B0D3AC652B"
+				item: "super_block_world:power_star"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02D8AAC65024C216"]
+			id: "307B1633AABDA662"
+			tasks: [{
+				id: "6384033CE5BC46E6"
+				item: {
+					Count: 1
+					id: "yakurum:water_shield"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "yakurum:maritime_restoration"
+								lvl: 1s
+							}
+							{
+								id: "yakurum:aquatic_aspect"
+								lvl: 2s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["47659F69771AAE88"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest30.description1}"]
+			id: "214010504B5C6237"
+			tasks: [{
+				id: "29165CD73918A3DA"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest30.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3FF88392CC84535A"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest31.description1}"]
+			id: "50008EA2A0D5794F"
+			tasks: [{
+				id: "3A5596558F767E97"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "l2backpack:backpacks"
+					}
+				}
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest31.task.title1}"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["783575CD020F66B0"]
+			id: "349AFB67A7E6763D"
+			tasks: [{
+				id: "75E6221587AA9E44"
+				item: {
+					Count: 1
+					id: "l2backpack:armor_bag"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["783575CD020F66B0"]
+			id: "7D785E34100FA045"
+			tasks: [{
+				id: "78D776A561BA585D"
+				item: {
+					Count: 1
+					id: "l2backpack:book_bag"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["64CBF4E7B7AFDC5A"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest34.description1}"]
+			id: "48AF41A50B73591A"
+			tasks: [{
+				id: "2043C5E370C4FB15"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "comforts:sleeping_bags"
+					}
+				}
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest34.task.title1}"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5AA66D046585F6E7"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest35.description1}"]
+			id: "394F215BCA380303"
+			tasks: [{
+				id: "7251BB8B45F1F6C3"
+				item: "chunkloaders:basic_chunk_loader"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"3D8C6545C5E20DBE"
+				"5AA66D046585F6E7"
+			]
+			id: "1840D641B8BF8DD2"
+			tasks: [{
+				id: "36C28E5DCDA2224A"
+				item: "endertrigon:dragon_horn"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest37.description1}"]
+			id: "73B84A7F998644B2"
+			rewards: [
+				{
+					id: "137B9471FF8BC0DA"
+					item: {
+						Count: 1
+						id: "tacz:ammo_box"
+						tag: {
+							Level: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00821C69CE2BF850"
+					item: "lucky:tacz_lucky_block"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.244F72D6CE564C7E.quest37.subtitle}"
+			tasks: [{
+				id: "646834BEE7B7546F"
+				item: "tacz:gun_smith_table"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3FF88392CC84535A"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest38.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest38.description2}"
+			]
+			id: "7AB2E1B517D0E90B"
+			tasks: [
+				{
+					id: "3E9DF534476A9350"
+					item: "storagenetwork:master"
+					type: "item"
+				}
+				{
+					id: "4205887D700BC99E"
+					item: "storagenetwork:request"
+					type: "item"
+				}
+				{
+					id: "513A36991F6C5117"
+					item: "storagenetwork:filter_kabel"
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7AB2E1B517D0E90B"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest39.description1}"]
+			id: "2B53055276CFF85B"
+			tasks: [{
+				id: "428EC9C08A588A6C"
+				item: "storagenetwork:crafting_remote"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["47659F69771AAE88"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest40.description1}"]
+			id: "1376BFE88F5D965C"
+			tasks: [{
+				id: "1552264760760CF7"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest40.task.title1}"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33FFE7CF9DF42239"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest41.description1}"]
+			id: "434BF726705A5B44"
+			tasks: [{
+				id: "27A4262BAC990774"
+				item: {
+					Count: 1
+					id: "fuze_relics:grapplin_hook"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["33FFE7CF9DF42239"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest42.description1}"]
+			id: "503068C5F7BB1E90"
+			tasks: [{
+				id: "32E74441835D4499"
+				item: "fuze_relics:harry_potdfleur"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest43.description1}"]
+			id: "25283847FBDE8629"
+			rewards: [{
+				count: 2
+				id: "25C4D8F74B0F5840"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "188E60B10FEA0AE3"
+				structure: "minecraft:ancient_city"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest43.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5AA66D046585F6E7"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest44.description1}"]
+			id: "50E78903D74DB300"
+			tasks: [{
+				id: "4C5F57CD9FE2FE7C"
+				item: {
+					Count: 1
+					id: "fuze_relics:nether_portal_gun"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest45.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest45.description2}"
+			]
+			id: "1F067FC434CE1A14"
+			rewards: [{
+				count: 5
+				id: "2C4BC9335A29D6ED"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12440E9E82F161EA"
+				structure: "yakurum:pirate_shipwreck"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest45.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest46.description1}"]
+			id: "39B319A6BC7A7657"
+			tasks: [{
+				icon: "yakurum:kraken_spawn_block"
+				id: "1D9431998B451F36"
+				observe_type: 0
+				timer: 30L
+				to_observe: "yakurum:kraken_spawn_block"
+				type: "observation"
+			}]
+			title: "{ftbquests.chapter.244F72D6CE564C7E.quest46.title}"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest47.description1}"]
+			id: "4ABD1E59AC3D2FDD"
+			tasks: [{
+				id: "7B80527A8DB113C0"
+				item: "minecraft:water_bucket"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest48.description1}"]
+			id: "308D0ECC4CE7DAE6"
+			tasks: [{
+				id: "1D6C4A0658F2DF4D"
+				item: "minecraft:milk_bucket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["33FFE7CF9DF42239"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest49.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest49.description2}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest49.description3}"
+			]
+			id: "64CBF4E7B7AFDC5A"
+			tasks: [{
+				id: "1B72A6D50161ED94"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest49.task.title1}"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest50.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest50.description2}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest50.description3}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest50.description4}"
+			]
+			id: "5A6B28E71A089E7C"
+			tasks: [
+				{
+					id: "1640F351E8A98C23"
+					item: {
+						Count: 1
+						id: "yakurum:triton_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "662BE5F357675A68"
+					item: {
+						Count: 1
+						id: "yakurum:triton_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04C56F6FE2408DF4"
+					item: {
+						Count: 1
+						id: "yakurum:triton_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64411E80AF7DA146"
+					item: {
+						Count: 1
+						id: "yakurum:triton_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest51.description1}"]
+			id: "264442C8DC5CBD2D"
+			rewards: [{
+				count: 2
+				id: "25B0EE7406CFD3C4"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A2FF81687342185"
+				structure: "yakurum:damp_temple"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest51.task.title1}"
+				type: "structure"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest52.description1}"]
+			id: "6B0B7914284A2B07"
+			rewards: [{
+				count: 5
+				id: "553D8E68EB6A7CEC"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A95AF4C0E56A1BF"
+				structure: "yakurum:triton_temple"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest52.task.title1}"
+				type: "structure"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2EAF3D40402825FE"]
+			id: "66AAC7CD60CA09B1"
+			tasks: [{
+				id: "6756595A5BDEB7AC"
+				item: "shadowlands:glowing_crystal"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66AAC7CD60CA09B1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest54.description1}"]
+			id: "0F471929142AA567"
+			tasks: [
+				{
+					id: "3BFAA953B0F11817"
+					item: "shadowlands:summoning_core"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4A28133A4450E148"
+					item: { Count: 2, id: "shadowlands:lightning_core" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68C83C3FC61E5F41"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest55.description1}"]
+			id: "2F97DDB125FF677E"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "1D3021F54CEA6876"
+					item: {
+						Count: 1
+						id: "shadowlands:shadow_orb"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "55A037E50F1FA157"
+					item: { Count: 10, id: "shadowlands:shadow_stone" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["214010504B5C6237"]
+			id: "3FF88392CC84535A"
+			tasks: [{
+				id: "28C28C67DAB4ECE0"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest56.task.title1}"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["214010504B5C6237"]
+			id: "33FFE7CF9DF42239"
+			tasks: [{
+				id: "1DE5CC98CB9A83C4"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest57.task.title1}"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest58.description1}"]
+			id: "685BA393E15AF146"
+			tasks: [{
+				id: "3C9420209D2B641C"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["214010504B5C6237"]
+			id: "41130ECE40DADFE8"
+			tasks: [{
+				id: "284FD0BF86075075"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest59.task.title1}"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest60.description1}"]
+			id: "5CB80904609AE351"
+			tasks: [{
+				id: "34A55AC2AE6D30BA"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest61.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest61.description2}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest61.description3}"
+			]
+			id: "207B5EA9606DB864"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "6D1980295A87BC2C"
+					item: {
+						Count: 1
+						id: "yakurum:poseidon_crown"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5003D114AE94F93D"
+					item: {
+						Count: 1
+						id: "yakurum:poseidon_himation"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B8EE74E0B1F9FE7"
+					item: {
+						Count: 1
+						id: "yakurum:poseidon_peplo"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31403EF10703772C"
+					item: {
+						Count: 1
+						id: "yakurum:poseidon_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest62.description1}"]
+			id: "4EFEA75E07B1148E"
+			shape: "hexagon"
+			tasks: [{
+				id: "343FFAE5D6253A63"
+				item: {
+					Count: 1
+					id: "yakurum:poseidon_trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest63.description1}"]
+			id: "66899E6657CEA4B5"
+			rewards: [{
+				id: "2AEEA28E13818620"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "quark:crawl_in_hollow_log"
+				criterion: ""
+				id: "4EA7C227D3DA4926"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest64.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest64.description2}"
+			]
+			id: "6F441C1A1EC81994"
+			tasks: [
+				{
+					id: "1CF974A1FCBFCF64"
+					item: {
+						Count: 1
+						id: "yakurum:sea_shell_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "712010EADAB0312F"
+					item: {
+						Count: 1
+						id: "yakurum:sea_shell_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "494B39726419C843"
+					item: {
+						Count: 1
+						id: "yakurum:sea_shell_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "37879659A7EF6FDF"
+					item: {
+						Count: 1
+						id: "yakurum:sea_shell_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest65.description1}"]
+			id: "2A1D18A59D0209B3"
+			tasks: [{
+				id: "6C132AD8E7728CFE"
+				item: "yakurum:sea_shell"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest66.description1}"]
+			id: "74688CF0B2C66BDB"
+			tasks: [
+				{
+					id: "3E6375DDB03C4C0A"
+					item: {
+						Count: 1
+						id: "yakurum:harpoon_crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EAA50597A764A53"
+					item: {
+						Count: 1
+						id: "yakurum:harpoon"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["214010504B5C6237"]
+			id: "79A0E114E3ED115E"
+			tasks: [{
+				id: "5957A79FABEE5640"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest67.task.title1}"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["214010504B5C6237"]
+			id: "4CAD844B6EFB6DC1"
+			tasks: [{
+				id: "2DDC69078E3B1794"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest68.task.title1}"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["214010504B5C6237"]
+			id: "508BEF4457CD89B3"
+			tasks: [{
+				id: "53FC97FF67EE759B"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest69.task.title1}"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["02D8AAC65024C216"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest70.description1}"]
+			id: "1AA3D10807E21080"
+			tasks: [{
+				id: "5E48E03186ED50F2"
+				item: {
+					Count: 1
+					id: "yakurum:delta_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest71.description1}"]
+			id: "107CCA231CD554F3"
+			tasks: [{
+				id: "2620369EDF1A56EF"
+				item: {
+					Count: 1
+					id: "yakurum:omega_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest72.description1}"]
+			id: "6DF5C3D3EA5A1630"
+			tasks: [{
+				id: "6F67F0663EC6E6E7"
+				item: {
+					Count: 1
+					id: "yakurum:anticreeper_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest73.description1}"]
+			id: "6C284327430D8649"
+			tasks: [{
+				id: "2121DC6CBD33A4CE"
+				item: {
+					Count: 1
+					id: "yakurum:thunder_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest74.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest74.description2}"
+			]
+			id: "72B2C0BE81F39A33"
+			tasks: [{
+				id: "18AFB7271D5E93C0"
+				item: {
+					Count: 1
+					id: "yakurum:rainbow_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest75.description1}"]
+			id: "436FC17F866AE6E4"
+			tasks: [{
+				id: "6C9CA8A95E010D63"
+				item: "yakurum:troll_stick"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest76.description1}"]
+			id: "6DAE4F2093822C53"
+			tasks: [{
+				id: "4594A3C91BBC82E9"
+				item: {
+					Count: 1
+					id: "yakurum:damp_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest77.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest77.description2}"
+			]
+			id: "058247C2130C5B03"
+			tasks: [
+				{
+					id: "49B8BDD104E7B5A5"
+					item: {
+						Count: 1
+						id: "yakurum:hockey_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "073EBBD406415D34"
+					item: {
+						Count: 1
+						id: "yakurum:hockey_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B72B4FC0DB7FC04"
+					item: {
+						Count: 1
+						id: "yakurum:hockey_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0290ADF1C59D9997"
+					item: {
+						Count: 1
+						id: "yakurum:hockey_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest78.description1}"]
+			id: "7AC0E660DD4EDF9B"
+			tasks: [{
+				id: "4DAB26E1FA572F2F"
+				item: {
+					Count: 1
+					id: "yakurum:hockey_stick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["33FFE7CF9DF42239"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest79.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest79.description2}"
+			]
+			id: "51F3E1C14890C1F3"
+			tasks: [
+				{
+					id: "174F62C3C083F5A1"
+					item: "fuze_relics:capacity_bottle_creeper"
+					type: "item"
+				}
+				{
+					id: "78040079904154E3"
+					item: "fuze_relics:capacity_bottle_zombie"
+					type: "item"
+				}
+				{
+					id: "2395B27578BF72E7"
+					item: "fuze_relics:capacity_bottle_chicken"
+					type: "item"
+				}
+				{
+					id: "39D04CBA013E5B2E"
+					item: "fuze_relics:capacity_bottle_enderman"
+					type: "item"
+				}
+				{
+					id: "3D061D94E9754058"
+					item: "fuze_relics:capacity_bottle_cow"
+					type: "item"
+				}
+				{
+					id: "7955F977D4FC4CCE"
+					item: "fuze_relics:capacity_bottle_slime"
+					type: "item"
+				}
+				{
+					id: "79B559B68E12E7D3"
+					item: "fuze_relics:capacity_bottle_ocelot"
+					type: "item"
+				}
+				{
+					id: "6177D389D9CA450B"
+					item: "fuze_relics:capacity_bottle_fire"
+					type: "item"
+				}
+				{
+					id: "12A2905E7D74D824"
+					item: "fuze_relics:capacity_bottle_water"
+					type: "item"
+				}
+				{
+					id: "7268475334768C6A"
+					item: "fuze_relics:capacity_bottle_pinguin"
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["41130ECE40DADFE8"]
+			id: "2DF39EF603CBA969"
+			tasks: [{
+				id: "542E1D577897CA55"
+				item: "majruszsdifficulty:undead_battle_standard"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest81.description1}"]
+			id: "717AB156B4CC3472"
+			tasks: [
+				{
+					id: "66C1E3BAEAA3ACBC"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EC14679A540ABBD"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30D51E48144A7497"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27B29E9FE55AC424"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest82.description1}"]
+			id: "199C0EC376FF1581"
+			tasks: [{
+				id: "613EDC9AF99B85C9"
+				item: "confluence:workshop"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["199C0EC376FF1581"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest83.description1}"]
+			id: "327AAE0BC2E6CC57"
+			tasks: [
+				{
+					id: "078CC7BC91362E38"
+					item: "confluence:magic_mirror"
+					type: "item"
+				}
+				{
+					id: "42723CCD9DA9F65B"
+					item: "confluence:obsidian_skull"
+					type: "item"
+				}
+				{
+					id: "7866C83DB320E48E"
+					item: "confluence:hand_warmer"
+					type: "item"
+				}
+				{
+					id: "0D89E931D4950AFD"
+					item: "confluence:anklet_of_the_wind"
+					type: "item"
+				}
+				{
+					id: "3887DDA661DB0C26"
+					item: "confluence:step_stool"
+					type: "item"
+				}
+				{
+					id: "1B69213C84B63148"
+					item: "confluence:rocket_boots"
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest84.description1}"]
+			id: "4114D36D0C3B6392"
+			tasks: [{
+				id: "5E3E428E6C6066A7"
+				item: {
+					Count: 1
+					id: "yakurum:angel_wings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest85.description1}"]
+			id: "3F0559B324A7855D"
+			tasks: [{
+				id: "1D46ED8BD0939CBC"
+				item: {
+					Count: 1
+					id: "fuze_relics:jetpack_playbutton_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "7834184D8E8A80FA"
+			tasks: [{
+				id: "7D05B233639CB6A4"
+				item: {
+					Count: 1
+					id: "yakurum:cobweb_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "62A57F2A95A6219C"
+			tasks: [{
+				id: "0D091DC0CA416812"
+				item: {
+					Count: 1
+					id: "yakurum:fading_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest88.description1}"]
+			id: "2E252516D8E24B9E"
+			tasks: [{
+				id: "50199728F4988C99"
+				item: {
+					Count: 1
+					id: "yakurum:fire_coral_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "600586FA90202525"
+			tasks: [{
+				id: "0E8E12F6AD0C2B5E"
+				item: {
+					Count: 1
+					id: "yakurum:curse_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "5308AB63F5BE67C4"
+			tasks: [{
+				id: "204964DCAB8172CB"
+				item: {
+					Count: 1
+					id: "yakurum:night_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest91.description1}"]
+			id: "0B23A44CCA7DB686"
+			tasks: [{
+				id: "4EDF8DA828A7D0BE"
+				item: {
+					Count: 1
+					id: "yakurum:tnt_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest92.description1}"]
+			id: "40C2578BFB1871B1"
+			tasks: [{
+				id: "40DF221443F04577"
+				item: {
+					Count: 1
+					id: "yakurum:launcher_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["366183B17B54A049"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest93.description1}"]
+			id: "4F4AAB01B93A6F60"
+			tasks: [
+				{
+					id: "370F3787AAA6202C"
+					item: "yakurum:aquatic_arrow"
+					type: "item"
+				}
+				{
+					id: "23431BC4790FE50A"
+					item: {
+						Count: 1
+						id: "yakurum:aquatic_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2A8D10680B1285A6"
+					item: {
+						Count: 1
+						id: "yakurum:water_bow"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "yakurum:maritime_restoration"
+									lvl: 1s
+								}
+								{
+									id: "yakurum:aquatic_aspect"
+									lvl: 2s
+								}
+							]
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "241AD174AFC80C1D"
+					item: {
+						Count: 1
+						id: "yakurum:water_triple_longbow"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "yakurum:maritime_restoration"
+									lvl: 1s
+								}
+								{
+									id: "yakurum:aquatic_aspect"
+									lvl: 2s
+								}
+							]
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "0F1BE172C20D46FE"
+			rewards: [{
+				id: "00A65992253F69CC"
+				item: {
+					Count: 1
+					id: "constructionwand:diamond_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E0289A212B44921"
+				structure: "#minecraft:village"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest94.task.title1}"
+				type: "structure"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "72FD2CCFB10CF7B4"
+			rewards: [{
+				count: 5
+				id: "4EC1F2FC7F0F88A3"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "76B0BB3FA9D70A18"
+				structure: "#minecraft:ruined_portal"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest95.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "3856783EC8952818"
+			rewards: [{
+				count: 5
+				id: "4A3885B7B9E1CD19"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "290D90A333C10580"
+				structure: "minecraft:desert_pyramid"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest96.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "5B1B2F2FF2452DBA"
+			rewards: [{
+				count: 5
+				id: "4E76281515D8743A"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C46B32A6CF2E0E8"
+				structure: "minecraft:jungle_pyramid"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest97.task.title1}"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "5883CC4E73187F60"
+			rewards: [{
+				count: 2
+				id: "05247F31C179D3B9"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2DCFC5C2D314AEAC"
+				structure: "minecraft:mansion"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest98.task.title1}"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "592BC18567682A27"
+			rewards: [{
+				count: 5
+				id: "4BB1A3722BDC06D9"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "63B45B759FA31D0F"
+				structure: "#minecraft:mineshaft"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest99.task.title1}"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1376BFE88F5D965C"]
+			id: "2F48A2102708C6CD"
+			rewards: [{
+				count: 5
+				id: "61816B828504AE13"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2072EDA66E035829"
+				structure: "minecraft:shipwreck"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest100.task.title1}"
+				type: "structure"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["79A0E114E3ED115E"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest101.description1}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest101.description2}"
+			]
+			id: "71430A8859F47888"
+			tasks: [
+				{
+					id: "489C320C4BEFDBCA"
+					item: {
+						Count: 1
+						id: "yakurum:spider_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17D3B4631427B60B"
+					item: {
+						Count: 1
+						id: "yakurum:spider_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "788234CEF6FF6D51"
+					item: {
+						Count: 1
+						id: "yakurum:spider_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2256E3BB1A3491EB"
+					item: {
+						Count: 1
+						id: "yakurum:spider_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["649EE3EE9BF694C7"]
+			id: "6B16FDC7B13B5131"
+			tasks: [{
+				id: "4F0237A97FAE280B"
+				item: "yakurum:prismarine_gem"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5ED9A2B845F1A876"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest103.description1}"]
+			id: "34B9651D981AEE7F"
+			tasks: [{
+				id: "0A48F41990365B2A"
+				item: "yakurum:guardian_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "0F31EE35CEA0241B"
+			tasks: [{
+				id: "0D4B81EA4667C389"
+				item: {
+					Count: 1
+					id: "yakurum:fantasia_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "3DBD95AA3C77A3D6"
+			tasks: [{
+				id: "796FB799314C64A6"
+				item: {
+					Count: 1
+					id: "yakurum:anchor"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4CAD844B6EFB6DC1"]
+			id: "7C603018890E4D73"
+			tasks: [{
+				id: "44EE968016B37868"
+				item: {
+					Count: 1
+					id: "yakurum:bubble_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			id: "0D225BD677F3ACFF"
+			tasks: [{
+				id: "61C85E2407C1E1C8"
+				item: {
+					Count: 1
+					id: "yakurum:pandilla_totem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["47659F69771AAE88"]
+			description: [
+				"{ftbquests.chapter.244F72D6CE564C7E.quest108.description1}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest108.description2}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest108.description3}"
+				"{ftbquests.chapter.244F72D6CE564C7E.quest108.description4}"
+				""
+				"{ftbquests.chapter.244F72D6CE564C7E.quest108.description5}"
+			]
+			id: "2EAF3D40402825FE"
+			tasks: [{
+				id: "4C59D883F76DAD8D"
+				title: "{ftbquests.chapter.244F72D6CE564C7E.quest108.task.title1}"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19F3508264F3C52E"]
+			id: "7CC0A89978C6666B"
+			shape: "pentagon"
+			tasks: [{
+				entity: "super_block_world:boom_boom"
+				id: "6868E6DC49A92CD2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0F471929142AA567"]
+			description: ["{ftbquests.chapter.244F72D6CE564C7E.quest110.description1}"]
+			id: "68C83C3FC61E5F41"
+			shape: "hexagon"
+			tasks: [{
+				entity: "shadowlands:wither_skeleton_commander"
+				id: "52D3EDC7EBCAA5A4"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["508BEF4457CD89B3"]
+			id: "4CA8774AAB6E27BC"
+			tasks: [{
+				id: "5FE3F56475C5AC27"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3FF88392CC84535A"]
+			id: "01824FB6F5D8AA88"
+			rewards: [{
+				id: "68A078F519108B4B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "095BFE109EB5B579"
+				item: {
+					Count: 1
+					id: "xpbook:xp_tome"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+	]
+	title: "{ftbquests.chapter.244F72D6CE564C7E.title}"
+}

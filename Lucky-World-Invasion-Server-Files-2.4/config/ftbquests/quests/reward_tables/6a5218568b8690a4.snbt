@@ -1,0 +1,16 @@
+{
+	id: "6A5218568B8690A4"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "lucky:amongus_lucky_block", weight: 40.0f }
+		{ item: "lucky:desert_lucky_block", weight: 30.0f }
+		{ item: "lucky:elemental_lucky_block", weight: 15.0f }
+		{ item: "lucky:fire_lucky_block", weight: 12.0f }
+		{ item: "lucky:pink_lucky_block", weight: 20.0f }
+		{ item: "lucky:morbius_lucky_block", weight: 5.0f }
+		{ item: "lucky:summer_lucky_block", weight: 30.0f }
+		{ item: "lucky:water_lucky_block" }
+	]
+	title: "{ftbquests.loot_table.title1}"
+}

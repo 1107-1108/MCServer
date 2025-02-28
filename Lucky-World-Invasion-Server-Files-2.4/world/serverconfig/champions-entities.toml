@@ -1,0 +1,242 @@
+
+#List of entity configurations
+[[entities]]
+	entity = "minecraft:creeper"
+	minTier = 0
+	maxTier = 4
+	presetAffixes = []
+	affixList = ["knocking", "wounding", "paralyzing", "molten"]
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:slime"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:magma_cube"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:silverfish"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "fuze_relics:nether_portal_entity"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:elder_guardian"
+	minTier = 1
+	maxTier = 6
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:warden"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = ["paralyzing", "dampening"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:wither"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = ["desecrating", "wounding"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "minecraft:ender_dragon"
+	minTier = 3
+	maxTier = 6
+	presetAffixes = ["shielding", "lively", "wounding"]
+	affixList = ["adaptable"]
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "yakurum:water_shooter"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = ["lively", "knocking"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "yakurum:water_master"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = ["magnetic", "paralyzing"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "yakurum:biped_guardian"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = ["molten", "reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "yakurum:kraken"
+	minTier = 4
+	maxTier = 6
+	presetAffixes = ["shielding", "magnetic", "dampening"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "yakurum:king_triton"
+	minTier = 5
+	maxTier = 6
+	presetAffixes = ["shielding", "desecrating", "dampening"]
+	affixList = ["adaptable"]
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "yakurum:poseidon"
+	minTier = 6
+	maxTier = 6
+	presetAffixes = ["shielding", "desecrating", "dampening", "reflective"]
+	affixList = ["adaptable"]
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "fuze_relics:burger_boss"
+	minTier = 1
+	maxTier = 6
+	presetAffixes = ["dampening"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:wither_skeleton_commander"
+	minTier = 1
+	maxTier = 6
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:doom_star"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:guardian_boar"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:vellium_megabee"
+	minTier = 3
+	maxTier = 6
+	presetAffixes = ["arctic", "dampening"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:sporeking"
+	minTier = 3
+	maxTier = 6
+	presetAffixes = ["plagued", "infested"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:plaguemaiden"
+	minTier = 3
+	maxTier = 6
+	presetAffixes = ["plagued", "infested"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:the_red_knight"
+	minTier = 4
+	maxTier = 6
+	presetAffixes = ["reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:red_nightmare"
+	minTier = 4
+	maxTier = 6
+	presetAffixes = ["reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:ascendant_star_stage_1"
+	minTier = 1
+	maxTier = 6
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:ascendant_star_stage_2"
+	minTier = 2
+	maxTier = 6
+	presetAffixes = ["adaptable"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:ascendant_star_stage_3"
+	minTier = 3
+	maxTier = 6
+	presetAffixes = ["adaptable", "reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:ascendant_star_stage_4"
+	minTier = 4
+	maxTier = 6
+	presetAffixes = ["adaptable", "paralyzing", "reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:ascendant_star_stage_5"
+	minTier = 5
+	maxTier = 6
+	presetAffixes = ["shielding", "adaptable", "paralyzing", "reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "shadowlands:emperor_wither"
+	minTier = 5
+	maxTier = 6
+	presetAffixes = ["shielding", "adaptable", "dampening", "reflective"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+

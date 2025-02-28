@@ -1,0 +1,37 @@
+[22:23:27] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:23:27] [INIT] Loaded plugins:
+[22:23:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:23:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:23:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:23:27] [INIT] - dev.aika.taczjs.TaCZJSPlugin
+[22:23:27] [INFO] Loaded script server_scripts:entity_events.js in 0.001 s
+[22:23:27] [INFO] Loaded script server_scripts:block_events.js in 0.0 s
+[22:23:27] [INFO] Loaded script server_scripts:player_login.js in 0.0 s
+[22:23:27] [INFO] Loaded script server_scripts:lucky_block_event.js in 0.011 s
+[22:23:27] [INFO] Loaded script server_scripts:difficulty_control.js in 0.0 s
+[22:23:27] [INFO] Loaded script server_scripts:tacz.js in 0.001 s
+[22:23:27] [INFO] loots.js#1: Loaded Java class 'dev.theagameplayer.puresuffering.world.entity.PSInvasionMob'
+[22:23:27] [INFO] Loaded script server_scripts:loots.js in 0.002 s
+[22:23:27] [INFO] Loaded script server_scripts:recipes.js in 0.0 s
+[22:23:27] [INFO] Loaded script server_scripts:item_events.js in 0.001 s
+[22:23:27] [INFO] Loaded 9/9 KubeJS server scripts in 0.022 s with 0 errors and 0 warnings
+[22:23:27] [INFO] Scripts loaded
+[22:23:28] [INFO] Initializing recipe event...
+[22:23:28] [INFO] Processing recipes...
+[22:23:28] [WARN] Failed to parse recipe 'expandedstorage:obsidian_to_netherite_conversion_kit[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:23:28] [INFO] Found 4314 recipes in 30.04 ms
+[22:23:28] [INFO] Posted recipe events in 4.982 ms
+[22:23:28] [WARN] Error parsing recipe apotheotic_additions:reforging/artifact[apotheosis:reforging]: {"conditions":[{"type":"apotheosis:module","module":"adventure"}],"type":"apotheosis:reforging","rarity":"apotheotic_additions:artifact","material_cost":2,"dust_cost":5,"level_cost":150}: Missing sigil_cost, expected to find a Int
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_yellow[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/yellow"},"color":"yellow","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_orange[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/orange"},"color":"orange","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_light_blue[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/light_blue"},"color":"light_blue","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_blank[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":null,"color":"blank","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_green[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/green"},"color":"green","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_gray[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/gray"},"color":"gray","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_white[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/white"},"color":"white","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_light_gray[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/light_gray"},"color":"light_gray","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_purple[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/purple"},"color":"purple","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe quark:tools/smithing/rune_smithing_cyan[quark:smithing_rune]: {"type":"quark:smithing_rune","template":{"item":"quark:smithing_template_rune"},"addition":{"tag":"forge:dyes/cyan"},"color":"cyan","conditions":[{"type":"quark:flag","flag":"color_runes"}]}: null
+[22:23:28] [WARN] Error parsing recipe apotheotic_additions:reforging/ancient[apotheosis:reforging]: {"conditions":[{"type":"apotheosis:module","module":"adventure"}],"type":"apotheosis:reforging","rarity":"apotheosis:ancient","material_cost":2,"dust_cost":5,"level_cost":150}: Missing sigil_cost, expected to find a Int
+[22:23:28] [INFO] Added 11 recipes, removed 13 recipes, modified 0 recipes, with 12 failed recipes in 17.23 ms
+[22:23:32] [INFO] Server resource reload complete!

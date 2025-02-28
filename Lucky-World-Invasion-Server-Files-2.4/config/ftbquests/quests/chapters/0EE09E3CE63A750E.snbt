@@ -1,0 +1,374 @@
+{
+	autofocus_id: "35E38806E0723972"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0EE09E3CE63A750E"
+	group: "092B0FDFBC420A44"
+	hide_quest_until_deps_visible: true
+	icon: "lootr:trophy"
+	id: "0EE09E3CE63A750E"
+	images: [
+		{
+			height: 6.0d
+			image: "quark:textures/gui/hanging_signs/azalea.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:textures/gui/hanging_signs/cherry.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:textures/gui/hanging_signs/birch.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:textures/gui/hanging_signs/crimson.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{ftbquests.chapter.0EE09E3CE63A750E.quest1.description1}"]
+			id: "35E38806E0723972"
+			shape: "rsquare"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "790D3A38D1F3BAE0"
+				title: "{ftbquests.chapter.0EE09E3CE63A750E.quest1.task.title1}"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "74577DD13586BD40"
+			tasks: [
+				{
+					id: "3CAD9F0A47A63337"
+					item: "fuze_relics:c_est_la_roulette_paladienne"
+					type: "item"
+				}
+				{
+					id: "27312B6C772DF8CA"
+					item: "fuze_relics:le_clash_des_anti_fuze"
+					type: "item"
+				}
+				{
+					id: "33E5A1BB5E4A3BC6"
+					item: "fuze_relics:paladium_go"
+					type: "item"
+				}
+				{
+					id: "257CB1C12FA6BC5F"
+					item: "fuze_relics:fuze_reine_des_neiges"
+					type: "item"
+				}
+				{
+					id: "7644D24DB5B6228E"
+					item: "fuze_relics:on_m_appelle_fuzeiii"
+					type: "item"
+				}
+				{
+					id: "73AF7D383510EE51"
+					item: "quark:music_disc_endermosh"
+					type: "item"
+				}
+				{
+					id: "6A78667B0BFF10FD"
+					item: "quark:music_disc_chatter"
+					type: "item"
+				}
+				{
+					id: "743AFFEAA4AFB765"
+					item: "quark:music_disc_crickets"
+					type: "item"
+				}
+				{
+					id: "1C01969D4C0A75CE"
+					item: "quark:music_disc_clock"
+					type: "item"
+				}
+				{
+					id: "677B53837EB3571D"
+					item: "quark:music_disc_fire"
+					type: "item"
+				}
+				{
+					id: "5C03290E78217B83"
+					item: "quark:music_disc_wind"
+					type: "item"
+				}
+				{
+					id: "0FCDCD1B91F73547"
+					item: "quark:music_disc_rain"
+					type: "item"
+				}
+				{
+					id: "0CC5013FF2FB25E0"
+					item: "quark:music_disc_ocean"
+					type: "item"
+				}
+				{
+					id: "2E85660CF97FF220"
+					item: "quark:music_disc_drips"
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			id: "644CE4BACD371D76"
+			tasks: [{
+				id: "19E3212BC03A007A"
+				item: "lootr:trophy"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			id: "5C31518432FD0C22"
+			tasks: [{
+				id: "0BB1E9EC47A5069C"
+				item: "shadowlands:gold_wither_skeleton_commander_statue"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "12758E56D1BDBE40"
+			tasks: [{
+				id: "23BD1BD06FAC9C3E"
+				item: "shadowlands:gold_doom_star_statue"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			id: "5A68D162220DB162"
+			tasks: [{
+				id: "3963851044F6CADA"
+				item: "shadowlands:gold_guardian_boar_statue"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "65B152B2C823DA26"
+			tasks: [{
+				id: "45F28094405537AE"
+				item: "shadowlands:gold_vellium_megabee_statue"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "5974F8860EDFDE7B"
+			tasks: [{
+				id: "5FA1609B690C0C85"
+				item: "shadowlands:gold_sporeking_statue"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			id: "652D4A81C76375FD"
+			tasks: [{
+				id: "13668627A7E663C0"
+				item: "shadowlands:gold_plaguemaiden_statue"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			id: "54A6D34791CA04D4"
+			tasks: [{
+				id: "4B3861193202F4D5"
+				item: "shadowlands:gold_red_knight_statue"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			id: "52A70936DE934DB5"
+			tasks: [{
+				id: "6765A317044AE54C"
+				item: "shadowlands:gold_red_nightmare_statue"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			id: "39ADEE5765EBC2F9"
+			tasks: [{
+				id: "3F2DBE2A4107B675"
+				item: "shadowlands:gold_emperor_wither_statue"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			id: "6E709770653F3BDC"
+			tasks: [{
+				id: "324D998CFE9376A4"
+				item: "shadowlands:gold_ascendant_star_statue"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			id: "462C7A84120681BB"
+			tasks: [
+				{
+					id: "46B323A425EE622A"
+					item: "quark:red_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "1B84B8040C3098AB"
+					item: "quark:orange_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "57A08AA8D63A0103"
+					item: "quark:yellow_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "6A24A8E7AB5E6363"
+					item: "quark:green_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "699783B39AF007E7"
+					item: "quark:blue_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "3A113C5ED7E93C9E"
+					item: "quark:indigo_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "4DA354072BCF32C7"
+					item: "quark:violet_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "4162286E61EDA238"
+					item: "quark:white_crystal_lamp"
+					type: "item"
+				}
+				{
+					id: "19078B1E1ECCD1BA"
+					item: "quark:black_crystal_lamp"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "4875A9416D43CA12"
+			tasks: [{
+				id: "1F86A37035E9BB6E"
+				item: "minecraft:sniffer_egg"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "0D93EAD66A8BC2E2"
+			tasks: [{
+				id: "53DA0753B18FD8C6"
+				item: "quark:diamond_heart"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			id: "261CC168A6AFD1A0"
+			tasks: [{
+				id: "14D5D9A190345AA4"
+				item: "yakurum:guardian_statue"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			id: "581862E8D266D267"
+			tasks: [{
+				id: "1A73A0A9BBB68FBC"
+				item: "yakurum:nether_guardian_statue"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			id: "5633DC97CE1345B4"
+			invisible: true
+			tasks: [{
+				id: "49B87FF747674F32"
+				item: {
+					Count: 1
+					id: "kubejs:lucky_gem_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "3008C72FB122285F"
+			tasks: [{
+				id: "0CA02331B2D47BD7"
+				item: {
+					Count: 1
+					id: "kubejs:lucky_gem_pickaxe_imitation"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+	]
+	title: "{ftbquests.chapter.0EE09E3CE63A750E.title}"
+}

@@ -1,0 +1,236 @@
+{
+	autofocus_id: "7D5B9E84D59C020F"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7FA60382A3541CB2"
+	group: "092B0FDFBC420A44"
+	icon: "minecraft:apple"
+	id: "7FA60382A3541CB2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{ftbquests.chapter.7FA60382A3541CB2.quest1.description1}"]
+			id: "7D5B9E84D59C020F"
+			shape: "rsquare"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "4377028DDB760EFB"
+				title: "{ftbquests.chapter.7FA60382A3541CB2.quest1.task.title1}"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "66A3227DEE4C122D"
+			rewards: [{
+				id: "3B1C5310EDD92B2A"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E5A2FC418E6518C"
+				item: "shadowlands:rambutan"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["503068C5F7BB1E90"]
+			id: "61BD24E74D2268E0"
+			rewards: [{
+				count: 5
+				id: "74087A8EC361AFEC"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			subtitle: "{ftbquests.chapter.7FA60382A3541CB2.quest3.subtitle}"
+			tasks: [
+				{
+					id: "6624FD7ECB98109B"
+					item: "fuze_relics:magic_beetroot"
+					type: "item"
+				}
+				{
+					id: "41EB250665F822EC"
+					item: "fuze_relics:magic_potato"
+					type: "item"
+				}
+				{
+					id: "7FDD6C31F4311680"
+					item: "fuze_relics:magic_carrot"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "2614B78B274AB64F"
+			rewards: [{
+				id: "5EF98471B0941AB6"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			shape: "pentagon"
+			tasks: [{
+				id: "6F52E97B619B3B35"
+				item: "yakurum:magic_coral"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "6CBB762F2EA5F156"
+			rewards: [{
+				count: 5
+				id: "69465BAF9F73DF70"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1177BA28BF637EBF"
+				item: "yakurum:spiral_cookie"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "576BB34EFAEB5EE5"
+			rewards: [{
+				id: "358DA7096C40ADF0"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B9AA4C94DF6A948"
+				item: "quark:ancient_fruit"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "183A7B15BF770E81"
+			rewards: [{
+				id: "4FB3A5EC21FDBFFD"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B144123ED9BB724"
+				item: "yakurum:dew_gout"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "64F365D8404A65CD"
+			rewards: [{
+				id: "36B83023BA6B0690"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C83E6036A2458A1"
+				item: "yakurum:sacred_heart"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "3F57B25688DC4E5D"
+			rewards: [
+				{
+					count: 10
+					id: "6214B4E12343EDEC"
+					item: "yakurum:golden_fish"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0755C9D9CD28E16B"
+					item: "yakurum:enchanted.golden_fish"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.7FA60382A3541CB2.quest9.subtitle}"
+			tasks: [
+				{
+					id: "1ADC0E909160F362"
+					item: "minecraft:salmon"
+					type: "item"
+				}
+				{
+					id: "657B96874E69BE43"
+					item: "minecraft:cod"
+					type: "item"
+				}
+				{
+					id: "1AF265494D1AEABC"
+					item: "minecraft:tropical_fish"
+					type: "item"
+				}
+				{
+					id: "7A6736C74539D241"
+					item: "yakurum:anchovy"
+					type: "item"
+				}
+				{
+					id: "36E637CB2AD2FB36"
+					item: "yakurum:yellow_cod"
+					type: "item"
+				}
+				{
+					id: "2452431749B274C4"
+					item: "yakurum:paiche"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "59E9D9E58F68288D"
+			rewards: [
+				{
+					id: "5A82AB47FD4F5B7E"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "764DAB2D9632491F"
+					item: "yakurum:enchanted.water_apple"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.7FA60382A3541CB2.quest10.subtitle}"
+			tasks: [
+				{
+					id: "43B9AA226E6B0FB7"
+					item: "minecraft:apple"
+					type: "item"
+				}
+				{
+					id: "1A52C7DA8C49C20C"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "148C28CD88368D10"
+					item: "yakurum:water_apple"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	title: "{ftbquests.chapter.7FA60382A3541CB2.title}"
+}

@@ -1,0 +1,252 @@
+{
+	autofocus_id: "167D47E384EE0860"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5BB152DB79EC9A2B"
+	group: "7E80DA01FF9543AE"
+	icon: "minecraft:wither_skeleton_skull"
+	id: "5BB152DB79EC9A2B"
+	images: [{
+		height: 3.0d
+		image: "minecraft:block/campfire_fire"
+		rotation: 0.0d
+		width: 3.0d
+		x: 0.0d
+		y: -0.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "167D47E384EE0860"
+			shape: "rsquare"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "4FBE09B06E73768B"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest1.task.title1}"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["708811CD27CB6F8A"]
+			id: "6D1F11118C6DC163"
+			tasks: [{
+				id: "1A1CE6D154A0C409"
+				structure: "minecraft:fortress"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest2.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["167D47E384EE0860"]
+			description: ["{ftbquests.chapter.5BB152DB79EC9A2B.quest3.description1}"]
+			id: "42AC168AF0E33A50"
+			tasks: [{
+				id: "28EC91D0AAAEFC31"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest3.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["167D47E384EE0860"]
+			id: "708811CD27CB6F8A"
+			tasks: [{
+				id: "61161FB96744634B"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest4.task.title1}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["167D47E384EE0860"]
+			description: [""]
+			id: "410D07022D4BFB8C"
+			tasks: [{
+				id: "225B0F47C5CCAD52"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest5.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["167D47E384EE0860"]
+			id: "745D5CF5E7A2E86F"
+			tasks: [{
+				id: "4E6764464B4A077E"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest6.task.title1}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["410D07022D4BFB8C"]
+			id: "425EB2BFE85CB4EC"
+			tasks: [{
+				id: "490AB1CD273088C4"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["410D07022D4BFB8C"]
+			id: "4E6CA3AEFF249475"
+			tasks: [{
+				id: "26C6EF8F788238CF"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["708811CD27CB6F8A"]
+			id: "323EDC8FCE53FAEF"
+			tasks: [{
+				id: "6C2D2B97C1F131B1"
+				structure: "minecraft:bastion_remnant"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest9.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["745D5CF5E7A2E86F"]
+			id: "0A3E4174A75BF63D"
+			tasks: [{
+				id: "72487526B57E8CD3"
+				item: "minecraft:respawn_anchor"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["410D07022D4BFB8C"]
+			id: "30908DD7820053CB"
+			tasks: [{
+				id: "13BD90EF36F87CA0"
+				item: "minecraft:glowstone_dust"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["745D5CF5E7A2E86F"]
+			id: "4C2C258C774ED076"
+			tasks: [{
+				id: "7163F6126E57AB1D"
+				item: "minecraft:netherite_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["745D5CF5E7A2E86F"]
+			description: ["{ftbquests.chapter.5BB152DB79EC9A2B.quest13.description1}"]
+			id: "26BEE4E9AF6EEB2E"
+			tasks: [
+				{
+					id: "09716C4BD1AF07A7"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C22DDAA15AB74C1"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22A6617AB9428240"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "51F15F5AF6CB30D7"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["745D5CF5E7A2E86F"]
+			id: "423F0D27D5DB56AE"
+			tasks: [{
+				id: "5C54A1E86D30B0C8"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["423F0D27D5DB56AE"]
+			id: "7330E47E2ADED4B6"
+			tasks: [{
+				id: "03F653B62235D4A8"
+				item: {
+					Count: 1
+					id: "fuze_relics:pulsion_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["708811CD27CB6F8A"]
+			id: "6228D0BA8F2610C4"
+			tasks: [{
+				id: "07324D06443C4D9B"
+				structure: "yakurum:nether_guardian_statue"
+				title: "{ftbquests.chapter.5BB152DB79EC9A2B.quest16.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+	]
+	title: "{ftbquests.chapter.5BB152DB79EC9A2B.title}"
+}

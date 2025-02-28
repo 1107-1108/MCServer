@@ -1,0 +1,365 @@
+{
+	autofocus_id: "7E75C87F0205AABC"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "41EAB6A8874B5DCC"
+	group: "7E80DA01FF9543AE"
+	icon: {
+		Count: 1
+		id: "shadowlands:demon_axe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "41EAB6A8874B5DCC"
+	images: [{
+		height: 5.0d
+		image: "shadowlands:block/sacrificial_circle"
+		rotation: 0.0d
+		width: 5.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["57969BCE6747CB93"]
+			id: "7E75C87F0205AABC"
+			shape: "rsquare"
+			tasks: [{
+				dimension: "shadowlands:blood_forest"
+				id: "3968088A078DDD0B"
+				title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest1.task.title1}"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E75C87F0205AABC"]
+			description: ["{ftbquests.chapter.41EAB6A8874B5DCC.quest2.description1}"]
+			id: "743D53662B561473"
+			tasks: [{
+				id: "42F58B8537B4CE56"
+				title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest2.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7E75C87F0205AABC"]
+			id: "1132FFE9D0C1A22A"
+			tasks: [{
+				id: "0E720687D0410569"
+				title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest3.task.title1}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E75C87F0205AABC"]
+			id: "35CCA1050ADBE4A2"
+			tasks: [{
+				id: "1A864FE4900481FB"
+				title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest4.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7E75C87F0205AABC"]
+			id: "48C912A1C129BC75"
+			tasks: [{
+				id: "2E777E8D804C1FCE"
+				title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest5.task.title1}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1132FFE9D0C1A22A"]
+			id: "1BDD5C0AF7F5A49A"
+			shape: "pentagon"
+			tasks: [
+				{
+					icon: "shadowlands:red_castle_altar"
+					id: "418512BB117F9F5C"
+					observe_type: 0
+					timer: 30L
+					title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest6.task.title1}"
+					to_observe: "shadowlands:red_castle_altar"
+					type: "observation"
+				}
+				{
+					id: "164140A84B26B75A"
+					item: {
+						Count: 1
+						id: "shadowlands:supreme_blaze_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["35CCA1050ADBE4A2"]
+			description: [
+				"{ftbquests.chapter.41EAB6A8874B5DCC.quest7.description1}"
+				"{ftbquests.chapter.41EAB6A8874B5DCC.quest7.description2}"
+			]
+			id: "04B507457C0ACEB7"
+			tasks: [{
+				id: "6D2BADF106E65FE0"
+				item: "shadowlands:fire_gem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1132FFE9D0C1A22A"]
+			id: "765DB60001F0A262"
+			shape: "pentagon"
+			tasks: [
+				{
+					icon: "shadowlands:blood_altar"
+					id: "60B8FF2B99295C07"
+					observe_type: 0
+					timer: 30L
+					title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest8.task.title1}"
+					to_observe: "shadowlands:blood_altar"
+					type: "observation"
+				}
+				{
+					id: "1E194AF4F29D552F"
+					item: "shadowlands:blood_orb"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["48C912A1C129BC75"]
+			id: "57AEA7D86C723D5D"
+			tasks: [{
+				id: "2B5F620C5F48B3F8"
+				item: "shadowlands:fiery_ingot"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1132FFE9D0C1A22A"]
+			id: "5CAE1A209DB016DA"
+			shape: "square"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "shadowlands:block/fire_portal_igniter_block"
+					}
+				}
+				id: "5F0612DCC98B83F5"
+				observe_type: 0
+				timer: 30L
+				title: "{ftbquests.chapter.41EAB6A8874B5DCC.quest10.task.title1}"
+				to_observe: "shadowlands:fire_portal_igniter_block"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57AEA7D86C723D5D"]
+			id: "770EE0B863F376A0"
+			tasks: [{
+				id: "337B6B67DB17BB4B"
+				item: "shadowlands:ultraflame_ingot"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["770EE0B863F376A0"]
+			id: "38B875D22BBAF494"
+			shape: "pentagon"
+			tasks: [{
+				id: "5BDF1867675FC350"
+				item: "shadowlands:summoning_circle"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57AEA7D86C723D5D"]
+			id: "0C2BA47EB95153B5"
+			tasks: [
+				{
+					id: "509E9CBDE4815FAB"
+					item: {
+						Count: 1
+						id: "shadowlands:fiery_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46D8A8DACD4C138C"
+					item: {
+						Count: 1
+						id: "shadowlands:fiery_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D864C17048C96BA"
+					item: {
+						Count: 1
+						id: "shadowlands:fiery_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DF49D2F8DBC801D"
+					item: {
+						Count: 1
+						id: "shadowlands:fiery_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["48C912A1C129BC75"]
+			id: "3DCAFD2F9C9F9410"
+			tasks: [
+				{
+					id: "459736F5AC1EB62A"
+					item: {
+						Count: 1
+						id: "shadowlands:star_crystal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B5985B719B0D47A"
+					item: {
+						Count: 1
+						id: "shadowlands:star_crystal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D45065746008638"
+					item: {
+						Count: 1
+						id: "shadowlands:star_crystal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "281879FC386D323E"
+					item: {
+						Count: 1
+						id: "shadowlands:star_crystal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["743D53662B561473"]
+			id: "6F6224DC2F43E345"
+			shape: "pentagon"
+			tasks: [{
+				entity: "shadowlands:red_nightmare"
+				id: "56760D4E0071F740"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["743D53662B561473"]
+			id: "5E50F822E895F8CD"
+			shape: "pentagon"
+			tasks: [{
+				entity: "shadowlands:the_red_knight"
+				id: "6AB795E87BFF3E27"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["743D53662B561473"]
+			id: "57F59F782BC70E9B"
+			shape: "hexagon"
+			tasks: [{
+				entity: "shadowlands:emperor_wither"
+				id: "116666657D641B2A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["743D53662B561473"]
+			id: "3F99C1A4FCD8631E"
+			shape: "hexagon"
+			tasks: [{
+				entity: "shadowlands:ascendant_star_stage_5"
+				id: "746E2EB2E20688AE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+	]
+	title: "{ftbquests.chapter.41EAB6A8874B5DCC.title}"
+}

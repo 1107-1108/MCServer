@@ -1,0 +1,493 @@
+{
+	autofocus_id: "2AC77A1E06D6255C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4428548C42F3D842"
+	group: "7E80DA01FF9543AE"
+	icon: {
+		Count: 1
+		id: "shadowlands:glowshroom_forest_portal_igniter"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4428548C42F3D842"
+	images: [{
+		height: 8.0d
+		image: "shadowlands:block/blueglowingshroomtall"
+		rotation: 0.0d
+		width: 8.0d
+		x: 0.0d
+		y: -3.0d
+	}]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["516640067741346E"]
+			description: ["{ftbquests.chapter.4428548C42F3D842.quest1.description1}"]
+			id: "2AC77A1E06D6255C"
+			shape: "rsquare"
+			tasks: [{
+				dimension: "shadowlands:glowshroom_forest"
+				id: "12072B44119CA012"
+				title: "{ftbquests.chapter.4428548C42F3D842.quest1.task.title1}"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2AC77A1E06D6255C"]
+			description: ["{ftbquests.chapter.4428548C42F3D842.quest2.description1}"]
+			id: "4ABB740AC7992862"
+			tasks: [{
+				id: "023AA3569FCE61E6"
+				title: "{ftbquests.chapter.4428548C42F3D842.quest2.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["01A80FEEC56B495B"]
+			id: "6A39EA324A28C3D7"
+			tasks: [{
+				id: "599A82A66C4949DD"
+				item: "shadowlands:containment_box"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A39EA324A28C3D7"]
+			description: ["{ftbquests.chapter.4428548C42F3D842.quest4.description1}"]
+			id: "103CF4E98A763A78"
+			tasks: [{
+				id: "461DBD7EA2AD54D2"
+				item: "shadowlands:full_containment_box"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01A80FEEC56B495B"]
+			description: ["{ftbquests.chapter.4428548C42F3D842.quest5.description1}"]
+			id: "57969BCE6747CB93"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "232760495A11DAF6"
+					item: {
+						Count: 1
+						id: "shadowlands:blood_key"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "75F0C0BF1BC7D94F"
+					item: { Count: 10, id: "minecraft:red_nether_bricks" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["041AFE32EDCB600E"]
+			id: "730A914F7B0BBA89"
+			tasks: [{
+				icon: "shadowlands:stone_trader"
+				id: "18E4739B17E27D47"
+				observe_type: 0
+				timer: 30L
+				title: "{ftbquests.chapter.4428548C42F3D842.quest6.task.title1}"
+				to_observe: "shadowlands:stone_trader"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2AC77A1E06D6255C"]
+			id: "041AFE32EDCB600E"
+			tasks: [{
+				id: "4EE60F2ED7AFEA87"
+				title: "{ftbquests.chapter.4428548C42F3D842.quest7.task.title1}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2AC77A1E06D6255C"]
+			id: "7BEB7B384DD6D31B"
+			tasks: [{
+				id: "4AEB529986EA1257"
+				title: "{ftbquests.chapter.4428548C42F3D842.quest8.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7BEB7B384DD6D31B"]
+			description: [
+				"{ftbquests.chapter.4428548C42F3D842.quest9.description1}"
+				"{ftbquests.chapter.4428548C42F3D842.quest9.description2}"
+			]
+			id: "53FC873387E6DC3C"
+			tasks: [{
+				id: "7261824E4BEA1CF3"
+				item: "shadowlands:belronite_ingot"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7BEB7B384DD6D31B"]
+			description: [
+				"{ftbquests.chapter.4428548C42F3D842.quest10.description1}"
+				"{ftbquests.chapter.4428548C42F3D842.quest10.description2}"
+			]
+			id: "0D2042D6CAB0AEFA"
+			tasks: [{
+				id: "31F1264A54320429"
+				item: "shadowlands:blue_gem"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7BEB7B384DD6D31B"]
+			description: [
+				"{ftbquests.chapter.4428548C42F3D842.quest11.description1}"
+				"{ftbquests.chapter.4428548C42F3D842.quest11.description2}"
+			]
+			id: "4213C3091E02CBC9"
+			tasks: [{
+				id: "17A3E0AC19F6BA75"
+				item: "shadowlands:pyrite_ingot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7BEB7B384DD6D31B"]
+			description: [
+				"{ftbquests.chapter.4428548C42F3D842.quest12.description1}"
+				"{ftbquests.chapter.4428548C42F3D842.quest12.description2}"
+			]
+			id: "270A0B0673D60CED"
+			tasks: [{
+				id: "008D1BFDF55345BB"
+				item: "shadowlands:ghostmetal_ingot"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["041AFE32EDCB600E"]
+			id: "79ED595223DA38CB"
+			shape: "pentagon"
+			tasks: [
+				{
+					icon: "shadowlands:plaguestone"
+					id: "26F0FCFE66CB7F56"
+					observe_type: 0
+					timer: 30L
+					title: "{ftbquests.chapter.4428548C42F3D842.quest13.task.title1}"
+					to_observe: "shadowlands:plaguestone"
+					type: "observation"
+				}
+				{
+					id: "4AC5DD26F44E761F"
+					item: "shadowlands:corrupted_tablet"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["041AFE32EDCB600E"]
+			description: ["{ftbquests.chapter.4428548C42F3D842.quest14.description1}"]
+			id: "16EB96047CAE48D7"
+			shape: "pentagon"
+			tasks: [
+				{
+					icon: "shadowlands:spore_altar"
+					id: "6369922F46FE7EBC"
+					observe_type: 0
+					timer: 30L
+					title: "{ftbquests.chapter.4428548C42F3D842.quest14.task.title1}"
+					to_observe: "shadowlands:spore_altar"
+					type: "observation"
+				}
+				{
+					id: "0C747536F8F55129"
+					item: "shadowlands:toxic_spore"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2AC77A1E06D6255C"]
+			id: "01A80FEEC56B495B"
+			tasks: [{
+				id: "57C79201200419EF"
+				title: "{ftbquests.chapter.4428548C42F3D842.quest15.task.title1}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01A80FEEC56B495B"]
+			id: "5D8569A90939590C"
+			tasks: [
+				{
+					id: "5511E8B16289B8B4"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostmetal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15F4ABC57CD8C7B6"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostmetal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D4FFDCA6E7E652D"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostmetal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "611DFC38DA30A129"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostmetal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["01A80FEEC56B495B"]
+			id: "2EB34A02A2295EAE"
+			tasks: [
+				{
+					id: "37D8548E68ECE0E0"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostly_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01DB8DBB63904DA2"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostly_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EC24AD45069280C"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostly_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09ED404B5F7B5E91"
+					item: {
+						Count: 1
+						id: "shadowlands:ghostly_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["01A80FEEC56B495B"]
+			id: "7C0B983D851053C4"
+			tasks: [
+				{
+					id: "627B887001C8B0C2"
+					item: {
+						Count: 1
+						id: "shadowlands:belronite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60283CB6891DB3EA"
+					item: {
+						Count: 1
+						id: "shadowlands:belronite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "313FFBF48B19CE76"
+					item: {
+						Count: 1
+						id: "shadowlands:belronite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C17084A884562C4"
+					item: {
+						Count: 1
+						id: "shadowlands:belronite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["01A80FEEC56B495B"]
+			id: "7513D704831BAB95"
+			tasks: [
+				{
+					id: "623CD6C67FD201CA"
+					item: {
+						Count: 1
+						id: "shadowlands:glowshroom_master_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4607410791873AA0"
+					item: {
+						Count: 1
+						id: "shadowlands:glowshroom_master_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C456199F220EFC1"
+					item: {
+						Count: 1
+						id: "shadowlands:glowshroom_master_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5001C0D49E6818A2"
+					item: {
+						Count: 1
+						id: "shadowlands:glowshroom_master_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4ABB740AC7992862"]
+			id: "0E2A1A16D11FEFF9"
+			shape: "pentagon"
+			tasks: [{
+				entity: "shadowlands:plaguemaiden"
+				id: "13A15B188E3E6A63"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4ABB740AC7992862"]
+			id: "0832D18FF337676F"
+			shape: "pentagon"
+			tasks: [{
+				entity: "shadowlands:sporeking"
+				id: "600EAC63C11D5136"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+	]
+	title: "{ftbquests.chapter.4428548C42F3D842.title}"
+}

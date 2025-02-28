@@ -1,0 +1,9 @@
+﻿{
+  "death.attack.parcool.wall_slide": "%1$s无法忍受摩擦热造成的烧伤。",
+  "parcool.command.message.success.deleteLimitation": "删除限制：%s",
+  "parcool.action.FastSwim": "快速游泳",
+  "parcool.message.disabled": "ParCool：禁用",
+  "parcool.message.enabled": "ParCool：启用",
+  "item.minecraft.tipped_arrow.effect.poor_energy_drink": "劣质能量药水箭",
+  "item.minecraft.tipped_arrow.effect.energy_drink": "能量药水箭"
+}

@@ -1,0 +1,14 @@
+[22:23:20] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:23:20] [INIT] Loaded plugins:
+[22:23:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:23:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:23:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:23:20] [INIT] - dev.aika.taczjs.TaCZJSPlugin
+[22:23:20] [INFO] Loaded script startup_scripts:tabs.js in 0.018 s
+[22:23:20] [INFO] Loaded script startup_scripts:global.js in 0.002 s
+[22:23:20] [INFO] dimensions.js#1: Loaded Java class 'net.minecraftforge.event.entity.EntityTravelToDimensionEvent'
+[22:23:20] [INFO] dimensions.js#2: Loaded Java class 'net.minecraft.server.level.ServerPlayer'
+[22:23:20] [INFO] Loaded script startup_scripts:dimensions.js in 0.07 s
+[22:23:20] [INFO] Loaded script startup_scripts:items.js in 0.001 s
+[22:23:20] [INFO] Loaded script startup_scripts:tacz.js in 0.01 s
+[22:23:20] [INFO] Loaded 5/5 KubeJS startup scripts in 0.29 s with 0 errors and 0 warnings

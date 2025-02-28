@@ -1,0 +1,560 @@
+{
+	autofocus_id: "1A18B8E0FE9EA558"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0C80A5748A662C54"
+	group: "7E80DA01FF9543AE"
+	icon: "shadowlands:enhanced_shadowmetal"
+	id: "0C80A5748A662C54"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2F97DDB125FF677E"]
+			description: ["{ftbquests.chapter.0C80A5748A662C54.quest1.description1}"]
+			id: "1A18B8E0FE9EA558"
+			shape: "rsquare"
+			tasks: [{
+				dimension: "shadowlands:shadow_forest"
+				id: "6AB795733F36578B"
+				title: "{ftbquests.chapter.0C80A5748A662C54.quest1.task.title1}"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24813D68B2BCE9EA"]
+			description: ["{ftbquests.chapter.0C80A5748A662C54.quest2.description1}"]
+			id: "09F71C7477E7414A"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "06F1F2448B1F92F5"
+					item: {
+						Count: 1
+						id: "shadowlands:vellium_portal_igniter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "7078FE522DB40ECA"
+					item: { Count: 10, id: "shadowlands:vellium_stone" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5A3CD0572A135357"]
+			description: [
+				"{ftbquests.chapter.0C80A5748A662C54.quest3.description1}"
+				"{ftbquests.chapter.0C80A5748A662C54.quest3.description2}"
+			]
+			id: "468694791F982F63"
+			tasks: [{
+				id: "7BDDFFB1DA15D0E0"
+				item: "shadowlands:shadowmetalingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5A3CD0572A135357"]
+			description: [
+				"{ftbquests.chapter.0C80A5748A662C54.quest4.description1}"
+				"{ftbquests.chapter.0C80A5748A662C54.quest4.description2}"
+			]
+			id: "6C5A9E88ACE40C04"
+			tasks: [{
+				id: "6CD12538A5D2A03D"
+				item: "shadowlands:green_gem"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5A3CD0572A135357"]
+			description: [
+				"{ftbquests.chapter.0C80A5748A662C54.quest5.description1}"
+				"{ftbquests.chapter.0C80A5748A662C54.quest5.description2}"
+			]
+			id: "35DD88BE736F5FBD"
+			tasks: [{
+				id: "066DE3DEC1F5173D"
+				item: "shadowlands:red_gem"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1A18B8E0FE9EA558"]
+			id: "5A3CD0572A135357"
+			tasks: [{
+				id: "7E87DAC2C65DB13B"
+				title: "{ftbquests.chapter.0C80A5748A662C54.quest6.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A18B8E0FE9EA558"]
+			description: ["{ftbquests.chapter.0C80A5748A662C54.quest7.description1}"]
+			id: "6FD229EA2DB21B47"
+			tasks: [{
+				id: "4A78A0778379F262"
+				title: "{ftbquests.chapter.0C80A5748A662C54.quest7.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["24813D68B2BCE9EA"]
+			id: "49035D9F9A7E65CE"
+			tasks: [
+				{
+					id: "549E01DEB36D03C3"
+					item: {
+						Count: 1
+						id: "shadowlands:void_traveler_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "411AFBB0629758A8"
+					item: {
+						Count: 1
+						id: "shadowlands:void_traveler_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BA1A9FBB07DE86B"
+					item: {
+						Count: 1
+						id: "shadowlands:void_traveler_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73EECD21EEFF50DB"
+					item: {
+						Count: 1
+						id: "shadowlands:void_traveler_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["49035D9F9A7E65CE"]
+			description: ["{ftbquests.chapter.0C80A5748A662C54.quest9.description1}"]
+			id: "516640067741346E"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "7F211CD56CBE111F"
+					item: {
+						Count: 1
+						id: "shadowlands:glowshroom_forest_portal_igniter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "33D824FC564CA19D"
+					item: { Count: 10, id: "shadowlands:darkshroom_stone" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A18B8E0FE9EA558"]
+			id: "010B500D6D5225E0"
+			tasks: [{
+				id: "3BC27D73807DEEBE"
+				title: "{ftbquests.chapter.0C80A5748A662C54.quest10.task.title1}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A18B8E0FE9EA558"]
+			id: "24813D68B2BCE9EA"
+			tasks: [{
+				id: "5D1ABFFA3FBD830A"
+				title: "{ftbquests.chapter.0C80A5748A662C54.quest11.task.title1}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["010B500D6D5225E0"]
+			id: "16958E91991C5F9A"
+			shape: "pentagon"
+			tasks: [
+				{
+					icon: "shadowlands:doom_star_altar"
+					id: "1B34118C806CB378"
+					observe_type: 0
+					timer: 30L
+					title: "{ftbquests.chapter.0C80A5748A662C54.quest12.task.title1}"
+					to_observe: "shadowlands:doom_star_altar"
+					type: "observation"
+				}
+				{
+					id: "20EB0F9DFCC909C0"
+					item: "shadowlands:void_orb"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24813D68B2BCE9EA"]
+			id: "0BECD0A1F0F8FE72"
+			tasks: [
+				{
+					id: "2CE25EFF92C6C098"
+					item: {
+						Count: 1
+						id: "shadowlands:enhanced_shadowmetal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69F84DE3E76688AE"
+					item: {
+						Count: 1
+						id: "shadowlands:enhanced_shadowmetal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2018ED6D837AE92A"
+					item: {
+						Count: 1
+						id: "shadowlands:enhanced_shadowmetal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D235D2A988C70DC"
+					item: {
+						Count: 1
+						id: "shadowlands:enhanced_shadowmetal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["24813D68B2BCE9EA"]
+			id: "2E46AC1151EDBE9A"
+			tasks: [
+				{
+					id: "1CCA9BC464737CF2"
+					item: {
+						Count: 1
+						id: "shadowlands:shadowgem_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B3241C5616FB82F"
+					item: {
+						Count: 1
+						id: "shadowlands:shadowgem_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "310CB963FB3BD3F6"
+					item: {
+						Count: 1
+						id: "shadowlands:shadowgem_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23652EC97AA76A09"
+					item: {
+						Count: 1
+						id: "shadowlands:shadowgem_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["24813D68B2BCE9EA"]
+			id: "346BD854C376AE4B"
+			tasks: [
+				{
+					id: "59225835BBB1EFC3"
+					item: {
+						Count: 1
+						id: "shadowlands:emeraldium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CCC227C3B4E0325"
+					item: {
+						Count: 1
+						id: "shadowlands:emeraldium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5953BB2E0DF464C9"
+					item: {
+						Count: 1
+						id: "shadowlands:emeraldium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C2C4AB7D933FD98"
+					item: {
+						Count: 1
+						id: "shadowlands:emeraldium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5A3CD0572A135357"]
+			description: ["{ftbquests.chapter.0C80A5748A662C54.quest16.description1}"]
+			id: "6F3875F3306A4CAA"
+			tasks: [{
+				id: "3DB0A449E9C3F999"
+				item: "shadowlands:cyprendium"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["24813D68B2BCE9EA"]
+			id: "032E0397B1A0F68A"
+			tasks: [{
+				id: "5BC1F069A5611D4F"
+				item: "shadowlands:creeper_alloy"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["032E0397B1A0F68A"]
+			id: "11556755047CA213"
+			tasks: [
+				{
+					id: "2BD62D011D395AA0"
+					item: {
+						Count: 1
+						id: "shadowlands:creeper_alloy_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CE1CBE07735B92C"
+					item: {
+						Count: 1
+						id: "shadowlands:creeper_alloy_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57C46BDA50DCC72F"
+					item: {
+						Count: 1
+						id: "shadowlands:creeper_alloy_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4437FA306E18605A"
+					item: {
+						Count: 1
+						id: "shadowlands:creeper_alloy_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["032E0397B1A0F68A"]
+			id: "6C96545D95505E08"
+			tasks: [{
+				id: "2E444FC4D5D78FC8"
+				item: {
+					Count: 1
+					id: "shadowlands:guardian_bane_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6C96545D95505E08"]
+			id: "2FD8E102A1DA014E"
+			tasks: [{
+				id: "4297B81243298EBF"
+				item: "shadowlands:guardian_idol"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["010B500D6D5225E0"]
+			id: "2EEEF412171BF14D"
+			tasks: [{
+				id: "1D16959F52C9115F"
+				structure: "shadowlands:verytallshadowtower"
+				title: "{ftbquests.chapter.0C80A5748A662C54.quest21.task.title1}"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["010B500D6D5225E0"]
+			id: "118FF1DBCB9E44AC"
+			tasks: [{
+				icon: "shadowlands:shadowmetal_enhancer"
+				id: "74F2A536FB4700A0"
+				observe_type: 0
+				timer: 30L
+				title: "{block.shadowlands.shadowmetal_enhancer}"
+				to_observe: "shadowlands:shadowmetal_enhancer"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6FD229EA2DB21B47"]
+			description: ["{ftbquests.chapter.0C80A5748A662C54.quest23.description1}"]
+			id: "2892E46B09BE7061"
+			shape: "pentagon"
+			tasks: [{
+				entity: "shadowlands:doom_star"
+				id: "4CEEB195C5BE453D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6FD229EA2DB21B47"]
+			id: "58FFE9C9172BBE01"
+			shape: "pentagon"
+			tasks: [{
+				entity: "shadowlands:guardian_boar"
+				id: "4A440B5071C95853"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+	]
+	title: "{ftbquests.chapter.0C80A5748A662C54.title}"
+}

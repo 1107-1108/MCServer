@@ -1,0 +1,17 @@
+{
+	id: "915af5f8-7ace-47b8-ab6c-efbf12919455"
+	type: "player"
+	player_name: "MtOlLM"
+	ranks: {
+		915af5f8-7ace-47b8-ab6c-efbf12919455: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MtOlLM"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

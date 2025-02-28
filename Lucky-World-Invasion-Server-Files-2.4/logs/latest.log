@@ -1,0 +1,1306 @@
+[282月2025 00:03:46.935] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.941] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.942] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.943] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 2, Max Possible Invasions: 1
+[282月2025 00:03:46.943] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.932] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.933] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.933] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.933] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.933] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.933] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.933] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 2, Max Possible Invasions: 1
+[282月2025 00:13:46.934] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 2, Max Possible Invasions: 1
+[282月2025 00:23:46.937] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.940] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 3, Max Possible Invasions: 1
+[282月2025 00:23:46.940] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.941] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 00:33:46.943] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 00:43:46.940] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 4, Max Possible Invasions: 1
+[282月2025 00:43:46.942] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.943] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.945] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 4, Max Possible Invasions: 1
+[282月2025 00:53:46.946] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 00:53:46.946] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 00:53:46.946] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 4, Max Possible Invasions: 1
+[282月2025 01:03:46.946] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.947] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.947] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.948] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.948] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.948] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.948] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 5, Max Possible Invasions: 1
+[282月2025 01:03:46.948] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.950] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.952] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:13:46.968] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[282月2025 01:13:46.968] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:13:46.970] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.970] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.970] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 5, Max Possible Invasions: 1
+[282月2025 01:13:46.971] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 5, Max Possible Invasions: 1
+[282月2025 01:23:46.920] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.922] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.922] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.922] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.922] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.922] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.923] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 6, Max Possible Invasions: 1
+[282月2025 01:23:46.923] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.919] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.921] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.921] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.921] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:33:46.922] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 01:33:46.922] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:33:46.922] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.922] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.922] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:33:46.923] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 6, Max Possible Invasions: 1
+[282月2025 01:33:46.924] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:33:46.924] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 01:33:46.924] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:33:46.924] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 6, Max Possible Invasions: 1
+[282月2025 01:43:46.914] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.916] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.917] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.917] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.917] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.917] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.917] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 7, Max Possible Invasions: 1
+[282月2025 01:43:46.917] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.926] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.928] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.928] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 7, Max Possible Invasions: 1
+[282月2025 01:53:46.929] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
+[282月2025 02:03:46.926] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.927] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.927] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.927] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.927] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 02:03:46.928] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:saw - 1
+[282月2025 02:03:46.928] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 02:03:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 8, Max Possible Invasions: 1
+[282月2025 02:03:46.928] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.927] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.929] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 02:13:46.930] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:mushroom_stew - 1
+[282月2025 02:13:46.930] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 02:13:46.930] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.930] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.930] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.930] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.931] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.931] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.931] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
+[282月2025 02:13:46.931] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 02:13:46.931] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 02:13:46.931] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 02:23:46.926] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.927] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.928] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.928] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 9, Max Possible Invasions: 1
+[282月2025 02:23:46.928] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.938] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.939] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.939] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.939] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 9, Max Possible Invasions: 1
+[282月2025 02:33:46.940] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 9, Max Possible Invasions: 1
+[282月2025 02:43:46.939] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 10, Max Possible Invasions: 1
+[282月2025 02:43:46.941] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.944] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.945] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.946] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 02:53:46.946] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 02:53:46.946] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 02:53:46.946] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 10, Max Possible Invasions: 1
+[282月2025 02:53:46.947] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 02:53:46.948] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 02:53:46.948] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 02:53:46.948] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 10, Max Possible Invasions: 1
+[282月2025 03:03:46.950] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.950] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.951] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.951] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.951] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.951] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.951] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 11, Max Possible Invasions: 1
+[282月2025 03:03:46.951] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.953] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.955] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:13:46.956] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:pest - 1
+[282月2025 03:13:46.956] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:13:46.956] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.957] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.957] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.957] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.957] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:13:46.957] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 03:13:46.957] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:13:46.958] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.958] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:13:46.958] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 03:13:46.958] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:13:46.958] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 11, Max Possible Invasions: 1
+[282月2025 03:13:46.958] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 11, Max Possible Invasions: 1
+[282月2025 03:23:46.957] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.959] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.960] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.960] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.960] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.960] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.960] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 12, Max Possible Invasions: 1
+[282月2025 03:23:46.960] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.963] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:pest - 1
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.965] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.966] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 12, Max Possible Invasions: 1
+[282月2025 03:33:46.966] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:33:46.966] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 03:33:46.966] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:33:46.966] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 12, Max Possible Invasions: 1
+[282月2025 03:43:46.995] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.997] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.998] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 13, Max Possible Invasions: 1
+[282月2025 03:43:46.998] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.003] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 13, Max Possible Invasions: 1
+[282月2025 03:53:47.005] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 13, Max Possible Invasions: 1
+[282月2025 04:03:47.014] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.014] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.014] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.015] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.015] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.015] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.015] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 14, Max Possible Invasions: 1
+[282月2025 04:03:47.015] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.009] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.011] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.011] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.011] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 04:13:47.012] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 04:13:47.012] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:13:47.012] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.012] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.012] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.013] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 14, Max Possible Invasions: 1
+[282月2025 04:13:47.013] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
+[282月2025 04:23:47.015] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.017] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.017] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.017] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.017] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 04:23:47.018] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[282月2025 04:23:47.018] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:23:47.018] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.018] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.018] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 15, Max Possible Invasions: 1
+[282月2025 04:23:47.018] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.019] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.021] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 04:33:47.022] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:undead - 1
+[282月2025 04:33:47.022] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:33:47.022] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.022] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 04:33:47.023] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 04:33:47.023] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:33:47.023] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.023] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.023] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.024] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.024] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.024] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
+[282月2025 04:33:47.024] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 04:33:47.024] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 04:33:47.024] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:43:47.025] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.028] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.028] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.028] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.028] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.028] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.029] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 16, Max Possible Invasions: 1
+[282月2025 04:43:47.029] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.018] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.020] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.020] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.021] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 04:53:47.021] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 04:53:47.021] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:53:47.021] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 16, Max Possible Invasions: 1
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 04:53:47.022] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 04:53:47.023] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 04:53:47.023] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
+[282月2025 05:03:47.023] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.025] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.025] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.025] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.025] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.025] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.025] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 17, Max Possible Invasions: 1
+[282月2025 05:03:47.026] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.025] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.027] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.027] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.027] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.028] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.028] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.028] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 05:13:47.028] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 05:13:47.028] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 05:13:47.028] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 17, Max Possible Invasions: 1
+[282月2025 05:13:47.029] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[282月2025 05:23:46.978] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.979] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.979] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.980] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.980] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 05:23:46.980] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:saw - 1
+[282月2025 05:23:46.980] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 05:23:46.980] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.981] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.981] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 18, Max Possible Invasions: 1
+[282月2025 05:23:46.981] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.969] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.971] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.972] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.972] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.972] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.972] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 05:33:46.972] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 05:33:46.973] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 05:33:46.973] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.973] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 18, Max Possible Invasions: 1
+[282月2025 05:33:46.973] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
+[282月2025 05:43:46.960] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.962] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.962] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.963] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.963] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.963] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.963] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 19, Max Possible Invasions: 1
+[282月2025 05:43:46.963] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.953] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.955] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.955] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 05:53:46.956] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 05:53:46.957] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:03:46.996] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 20, Max Possible Invasions: 1
+[282月2025 06:03:46.998] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 20, Max Possible Invasions: 1
+[282月2025 06:13:46.997] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 20, Max Possible Invasions: 1
+[282月2025 06:13:46.999] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:13:46.999] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:saw - 1
+[282月2025 06:13:47.000] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:13:47.000] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 20, Max Possible Invasions: 1
+[282月2025 06:13:47.000] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:13:47.001] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 06:13:47.001] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:13:47.001] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 20, Max Possible Invasions: 1
+[282月2025 06:13:47.001] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 20, Max Possible Invasions: 1
+[282月2025 06:13:47.002] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 20, Max Possible Invasions: 1
+[282月2025 06:13:47.002] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 20, Max Possible Invasions: 1
+[282月2025 06:13:47.002] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 20, Max Possible Invasions: 1
+[282月2025 06:13:47.002] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 20, Max Possible Invasions: 1
+[282月2025 06:23:46.998] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.000] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.001] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.001] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.001] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.001] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.001] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 21, Max Possible Invasions: 1
+[282月2025 06:23:47.001] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.026] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.028] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.029] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.030] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.030] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:33:47.030] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 06:33:47.030] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:33:47.030] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 21, Max Possible Invasions: 1
+[282月2025 06:33:47.030] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 21, Max Possible Invasions: 1
+[282月2025 06:43:47.034] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.036] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.036] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 22, Max Possible Invasions: 1
+[282月2025 06:43:47.037] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.042] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.044] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:53:47.045] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
+[282月2025 06:53:47.045] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:53:47.045] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.046] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 22, Max Possible Invasions: 1
+[282月2025 06:53:47.047] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 06:53:47.047] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 06:53:47.047] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 06:53:47.047] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 22, Max Possible Invasions: 1
+[282月2025 07:03:47.029] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.031] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.031] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.031] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.031] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.032] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.032] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 23, Max Possible Invasions: 1
+[282月2025 07:03:47.032] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.031] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.033] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.033] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.033] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.033] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.033] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.033] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 23, Max Possible Invasions: 1
+[282月2025 07:13:47.034] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 23, Max Possible Invasions: 1
+[282月2025 07:23:47.034] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.035] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.035] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.036] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.036] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 24, Max Possible Invasions: 1
+[282月2025 07:23:47.036] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.040] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.041] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.041] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.042] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 07:33:47.042] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 07:33:47.042] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 07:33:47.042] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.042] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:saw - 1
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 07:33:47.043] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 07:33:47.044] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.044] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 24, Max Possible Invasions: 1
+[282月2025 07:33:47.044] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 07:33:47.044] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:shadow_storm - 1
+[282月2025 07:33:47.044] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 07:43:47.070] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.072] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.072] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.072] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.072] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.072] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.072] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 25, Max Possible Invasions: 1
+[282月2025 07:43:47.073] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.077] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 25, Max Possible Invasions: 1
+[282月2025 07:53:47.078] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 25, Max Possible Invasions: 1
+[282月2025 08:03:47.087] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.089] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.089] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.089] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.089] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.090] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.090] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 26, Max Possible Invasions: 1
+[282月2025 08:03:47.090] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.053] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.055] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.055] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:13:47.056] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 08:13:47.056] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:13:47.056] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.056] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.056] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.056] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 26, Max Possible Invasions: 1
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:13:47.057] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 26, Max Possible Invasions: 1
+[282月2025 08:23:47.050] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.052] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.052] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.052] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.052] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.052] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.053] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 08:23:47.053] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 08:23:47.053] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:23:47.053] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 27, Max Possible Invasions: 1
+[282月2025 08:23:47.053] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.052] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.052] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.052] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:33:47.053] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 08:33:47.053] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:33:47.053] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.053] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.053] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.053] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 27, Max Possible Invasions: 1
+[282月2025 08:33:47.054] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 27, Max Possible Invasions: 1
+[282月2025 08:43:47.050] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.052] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.052] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.052] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.053] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.053] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.053] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 28, Max Possible Invasions: 1
+[282月2025 08:43:47.053] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.089] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.091] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 08:53:47.091] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[282月2025 08:53:47.091] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 08:53:47.092] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.093] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.093] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 28, Max Possible Invasions: 1
+[282月2025 08:53:47.093] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 28, Max Possible Invasions: 1
+[282月2025 09:03:47.096] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.098] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.098] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.098] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.098] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.098] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.099] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 29, Max Possible Invasions: 1
+[282月2025 09:03:47.099] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.104] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.105] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.105] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.105] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 29, Max Possible Invasions: 1
+[282月2025 09:13:47.106] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:13:47.107] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 09:13:47.107] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:13:47.107] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 29, Max Possible Invasions: 1
+[282月2025 09:23:47.091] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.092] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.092] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.092] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 30, Max Possible Invasions: 1
+[282月2025 09:23:47.093] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 30, Max Possible Invasions: 1
+[282月2025 09:33:47.096] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 30, Max Possible Invasions: 2
+[282月2025 09:33:47.097] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 30, Max Possible Invasions: 2
+[282月2025 09:33:47.098] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 30, Max Possible Invasions: 2
+[282月2025 09:33:47.098] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 30, Max Possible Invasions: 1
+[282月2025 09:33:47.098] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 30, Max Possible Invasions: 2
+[282月2025 09:33:47.098] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 30, Max Possible Invasions: 2
+[282月2025 09:33:47.098] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:33:47.099] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 2
+[282月2025 09:33:47.100] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:33:47.100] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 30, Max Possible Invasions: 2
+[282月2025 09:33:47.100] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 30, Max Possible Invasions: 1
+[282月2025 09:43:47.099] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.101] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.101] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.101] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.102] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.102] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.102] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 31, Max Possible Invasions: 1
+[282月2025 09:43:47.102] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 31, Max Possible Invasions: 1
+[282月2025 09:53:47.102] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 31, Max Possible Invasions: 2
+[282月2025 09:53:47.104] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:53:47.104] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:shadow_storm - 2
+[282月2025 09:53:47.105] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:pest - 2
+[282月2025 09:53:47.105] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:53:47.105] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 31, Max Possible Invasions: 2
+[282月2025 09:53:47.105] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:53:47.105] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 2
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 31, Max Possible Invasions: 2
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 31, Max Possible Invasions: 1
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 31, Max Possible Invasions: 2
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 09:53:47.106] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 2
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 31, Max Possible Invasions: 2
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 31, Max Possible Invasions: 2
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 31, Max Possible Invasions: 1
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 09:53:47.107] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:03:47.081] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.082] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.082] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 32, Max Possible Invasions: 1
+[282月2025 10:03:47.083] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 32, Max Possible Invasions: 1
+[282月2025 10:13:47.080] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 32, Max Possible Invasions: 2
+[282月2025 10:13:47.081] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 32, Max Possible Invasions: 2
+[282月2025 10:13:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 32, Max Possible Invasions: 2
+[282月2025 10:13:47.082] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 32, Max Possible Invasions: 1
+[282月2025 10:13:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 32, Max Possible Invasions: 2
+[282月2025 10:13:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 32, Max Possible Invasions: 2
+[282月2025 10:13:47.082] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 32, Max Possible Invasions: 2
+[282月2025 10:13:47.082] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 10:13:47.083] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 10:13:47.083] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:13:47.083] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 32, Max Possible Invasions: 1
+[282月2025 10:23:47.080] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 33, Max Possible Invasions: 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:23:47.081] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 33, Max Possible Invasions: 1
+[282月2025 10:33:47.116] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 33, Max Possible Invasions: 2
+[282月2025 10:33:47.118] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 33, Max Possible Invasions: 2
+[282月2025 10:33:47.118] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 33, Max Possible Invasions: 2
+[282月2025 10:33:47.119] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 10:33:47.119] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 2
+[282月2025 10:33:47.119] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:33:47.119] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 33, Max Possible Invasions: 1
+[282月2025 10:33:47.119] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 10:33:47.119] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 33, Max Possible Invasions: 2
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 33, Max Possible Invasions: 2
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 33, Max Possible Invasions: 2
+[282月2025 10:33:47.120] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 10:33:47.121] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 10:33:47.121] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:33:47.121] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 33, Max Possible Invasions: 1
+[282月2025 10:43:47.124] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.125] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 10:43:47.125] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:mushroom_stew - 1
+[282月2025 10:43:47.125] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:43:47.126] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.126] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.126] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.126] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.126] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.127] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 34, Max Possible Invasions: 1
+[282月2025 10:43:47.127] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 34, Max Possible Invasions: 1
+[282月2025 10:53:47.130] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 34, Max Possible Invasions: 2
+[282月2025 10:53:47.132] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 34, Max Possible Invasions: 2
+[282月2025 10:53:47.132] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 34, Max Possible Invasions: 2
+[282月2025 10:53:47.133] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 34, Max Possible Invasions: 1
+[282月2025 10:53:47.133] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 34, Max Possible Invasions: 2
+[282月2025 10:53:47.133] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 34, Max Possible Invasions: 2
+[282月2025 10:53:47.133] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 10:53:47.133] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 10:53:47.134] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 10:53:47.134] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 34, Max Possible Invasions: 2
+[282月2025 10:53:47.134] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 34, Max Possible Invasions: 1
+[282月2025 11:03:47.138] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.138] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.138] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 35, Max Possible Invasions: 1
+[282月2025 11:03:47.139] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 35, Max Possible Invasions: 1
+[282月2025 11:13:47.136] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 35, Max Possible Invasions: 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:undead - 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 35, Max Possible Invasions: 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 35, Max Possible Invasions: 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 35, Max Possible Invasions: 1
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 35, Max Possible Invasions: 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 35, Max Possible Invasions: 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 35, Max Possible Invasions: 2
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 35, Max Possible Invasions: 1
+[282月2025 11:13:47.137] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 11:13:47.138] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 11:13:47.138] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:23:47.142] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.143] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.143] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.143] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.143] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.144] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.144] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 36, Max Possible Invasions: 1
+[282月2025 11:23:47.144] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 36, Max Possible Invasions: 1
+[282月2025 11:33:47.150] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 36, Max Possible Invasions: 2
+[282月2025 11:33:47.152] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 36, Max Possible Invasions: 2
+[282月2025 11:33:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 36, Max Possible Invasions: 2
+[282月2025 11:33:47.152] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 36, Max Possible Invasions: 1
+[282月2025 11:33:47.153] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 36, Max Possible Invasions: 2
+[282月2025 11:33:47.153] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 36, Max Possible Invasions: 2
+[282月2025 11:33:47.153] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 36, Max Possible Invasions: 2
+[282月2025 11:33:47.153] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 11:33:47.154] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 11:33:47.154] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:33:47.154] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 36, Max Possible Invasions: 1
+[282月2025 11:43:47.117] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.119] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.120] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.120] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 37, Max Possible Invasions: 1
+[282月2025 11:43:47.120] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 37, Max Possible Invasions: 1
+[282月2025 11:53:47.115] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 37, Max Possible Invasions: 2
+[282月2025 11:53:47.117] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 37, Max Possible Invasions: 2
+[282月2025 11:53:47.117] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 37, Max Possible Invasions: 2
+[282月2025 11:53:47.117] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 2
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 37, Max Possible Invasions: 1
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 37, Max Possible Invasions: 2
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 37, Max Possible Invasions: 2
+[282月2025 11:53:47.118] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 37, Max Possible Invasions: 2
+[282月2025 11:53:47.119] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 37, Max Possible Invasions: 1
+[282月2025 12:03:47.114] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.116] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.116] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.116] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.117] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.117] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.117] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 38, Max Possible Invasions: 1
+[282月2025 12:03:47.117] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 38, Max Possible Invasions: 1
+[282月2025 12:13:47.111] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 38, Max Possible Invasions: 2
+[282月2025 12:13:47.113] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:13:47.113] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[282月2025 12:13:47.113] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:13:47.113] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 38, Max Possible Invasions: 2
+[282月2025 12:13:47.113] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:13:47.113] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 2
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 38, Max Possible Invasions: 2
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 38, Max Possible Invasions: 1
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 38, Max Possible Invasions: 2
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 38, Max Possible Invasions: 2
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 2
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 38, Max Possible Invasions: 2
+[282月2025 12:13:47.114] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 38, Max Possible Invasions: 1
+[282月2025 12:23:47.141] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.143] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.143] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.143] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.143] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 12:23:47.143] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[282月2025 12:23:47.143] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 39, Max Possible Invasions: 1
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 12:23:47.144] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:33:47.146] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 39, Max Possible Invasions: 2
+[282月2025 12:33:47.147] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 39, Max Possible Invasions: 2
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 39, Max Possible Invasions: 2
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 39, Max Possible Invasions: 1
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 39, Max Possible Invasions: 2
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 39, Max Possible Invasions: 2
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 39, Max Possible Invasions: 2
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:33:47.148] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 12:33:47.149] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:33:47.149] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 39, Max Possible Invasions: 1
+[282月2025 12:43:47.151] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 40, Max Possible Invasions: 1
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 40, Max Possible Invasions: 1
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 40, Max Possible Invasions: 1
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 40, Max Possible Invasions: 2
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 40, Max Possible Invasions: 1
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 40, Max Possible Invasions: 1
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 40, Max Possible Invasions: 1
+[282月2025 12:43:47.152] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.164] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.166] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:53:47.166] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:undead - 1
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:zombie - 1
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 2
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 12:53:47.167] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:saw - 1
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:ghasts_galore - 1
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 40, Max Possible Invasions: 2
+[282月2025 12:53:47.168] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 40, Max Possible Invasions: 2
+[282月2025 13:03:47.170] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 41, Max Possible Invasions: 1
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 41, Max Possible Invasions: 1
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 41, Max Possible Invasions: 1
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 41, Max Possible Invasions: 2
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 41, Max Possible Invasions: 1
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 41, Max Possible Invasions: 1
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 41, Max Possible Invasions: 1
+[282月2025 13:03:47.172] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.177] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.179] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.179] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.179] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.179] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.179] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.180] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 13:13:47.180] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 13:13:47.180] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 13:13:47.180] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 41, Max Possible Invasions: 2
+[282月2025 13:13:47.180] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 41, Max Possible Invasions: 2
+[282月2025 13:23:47.184] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 42, Max Possible Invasions: 1
+[282月2025 13:23:47.186] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 42, Max Possible Invasions: 1
+[282月2025 13:23:47.186] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 42, Max Possible Invasions: 1
+[282月2025 13:23:47.186] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 42, Max Possible Invasions: 2
+[282月2025 13:23:47.187] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 42, Max Possible Invasions: 1
+[282月2025 13:23:47.187] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 42, Max Possible Invasions: 1
+[282月2025 13:23:47.187] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 42, Max Possible Invasions: 1
+[282月2025 13:23:47.187] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.153] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.154] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.154] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 13:33:47.154] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 2
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 42, Max Possible Invasions: 2
+[282月2025 13:33:47.155] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 42, Max Possible Invasions: 2
+[282月2025 13:43:47.154] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 43, Max Possible Invasions: 1
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 43, Max Possible Invasions: 1
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 43, Max Possible Invasions: 1
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 43, Max Possible Invasions: 2
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 43, Max Possible Invasions: 1
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 13:43:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 43, Max Possible Invasions: 1
+[282月2025 13:43:47.157] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 43, Max Possible Invasions: 1
+[282月2025 13:43:47.157] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 43, Max Possible Invasions: 2
+[282月2025 13:43:47.157] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 13:43:47.157] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 13:43:47.157] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:end_pest - 1
+[282月2025 13:43:47.157] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 13:53:47.150] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 43, Max Possible Invasions: 2
+[282月2025 13:53:47.152] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 43, Max Possible Invasions: 2
+[282月2025 14:03:47.154] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 44, Max Possible Invasions: 1
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 44, Max Possible Invasions: 1
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 44, Max Possible Invasions: 1
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 44, Max Possible Invasions: 2
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 44, Max Possible Invasions: 1
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 44, Max Possible Invasions: 1
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 44, Max Possible Invasions: 1
+[282月2025 14:03:47.156] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.155] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.156] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:13:47.157] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:mega_raid - 1
+[282月2025 14:13:47.157] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:13:47.157] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.157] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.157] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 2
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:inferno - 1
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:porkinator - 1
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:13:47.158] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 44, Max Possible Invasions: 2
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:13:47.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 44, Max Possible Invasions: 2
+[282月2025 14:23:47.156] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 45, Max Possible Invasions: 1
+[282月2025 14:23:47.158] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 45, Max Possible Invasions: 1
+[282月2025 14:23:47.158] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 45, Max Possible Invasions: 1
+[282月2025 14:23:47.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 45, Max Possible Invasions: 2
+[282月2025 14:23:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 45, Max Possible Invasions: 1
+[282月2025 14:23:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 45, Max Possible Invasions: 1
+[282月2025 14:23:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 45, Max Possible Invasions: 1
+[282月2025 14:23:47.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.155] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.157] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 2
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 2
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.158] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.159] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 45, Max Possible Invasions: 2
+[282月2025 14:33:47.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 45, Max Possible Invasions: 2
+[282月2025 14:43:47.196] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 46, Max Possible Invasions: 1
+[282月2025 14:43:47.197] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 46, Max Possible Invasions: 1
+[282月2025 14:43:47.198] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 46, Max Possible Invasions: 1
+[282月2025 14:43:47.198] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 46, Max Possible Invasions: 2
+[282月2025 14:43:47.198] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 46, Max Possible Invasions: 1
+[282月2025 14:43:47.198] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 46, Max Possible Invasions: 1
+[282月2025 14:43:47.198] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 46, Max Possible Invasions: 1
+[282月2025 14:43:47.198] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.206] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.209] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.209] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.209] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.209] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 2
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 2
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:53:47.210] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 46, Max Possible Invasions: 2
+[282月2025 14:53:47.211] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 14:53:47.211] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 14:53:47.211] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 14:53:47.211] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 46, Max Possible Invasions: 2
+[282月2025 15:03:47.214] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 47, Max Possible Invasions: 1
+[282月2025 15:03:47.216] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 47, Max Possible Invasions: 1
+[282月2025 15:03:47.216] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 15:03:47.216] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:03:47.216] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 47, Max Possible Invasions: 1
+[282月2025 15:03:47.216] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 47, Max Possible Invasions: 2
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 47, Max Possible Invasions: 1
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 47, Max Possible Invasions: 1
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 47, Max Possible Invasions: 1
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 1
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 47, Max Possible Invasions: 2
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[282月2025 15:03:47.217] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:13:47.201] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.202] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 47, Max Possible Invasions: 2
+[282月2025 15:13:47.203] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 47, Max Possible Invasions: 2
+[282月2025 15:23:47.206] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 48, Max Possible Invasions: 1
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 48, Max Possible Invasions: 1
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 48, Max Possible Invasions: 1
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 48, Max Possible Invasions: 2
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 48, Max Possible Invasions: 1
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 48, Max Possible Invasions: 1
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 48, Max Possible Invasions: 1
+[282月2025 15:23:47.208] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.210] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.212] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.212] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 15:33:47.212] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 2
+[282月2025 15:33:47.212] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:33:47.212] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.213] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.213] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.213] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.213] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 48, Max Possible Invasions: 2
+[282月2025 15:33:47.213] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 48, Max Possible Invasions: 2
+[282月2025 15:43:47.213] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 49, Max Possible Invasions: 1
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 49, Max Possible Invasions: 1
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 49, Max Possible Invasions: 1
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 49, Max Possible Invasions: 2
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 2
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:inferno - 1
+[282月2025 15:43:47.216] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:43:47.217] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 49, Max Possible Invasions: 1
+[282月2025 15:43:47.217] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 49, Max Possible Invasions: 1
+[282月2025 15:43:47.217] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 49, Max Possible Invasions: 1
+[282月2025 15:43:47.217] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.191] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.193] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.193] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.193] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 2
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 15:53:47.194] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 15:53:47.195] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 15:53:47.195] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 49, Max Possible Invasions: 2
+[282月2025 15:53:47.195] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[282月2025 15:53:47.195] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:shadow_storm - 2
+[282月2025 15:53:47.195] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:03:47.188] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.189] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.190] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.190] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.190] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.190] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.190] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 50, Max Possible Invasions: 2
+[282月2025 16:03:47.190] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.187] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.189] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:13:47.189] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:undead - 1
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 1
+[282月2025 16:13:47.190] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 50, Max Possible Invasions: 2
+[282月2025 16:13:47.191] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 50, Max Possible Invasions: 2
+[282月2025 16:23:47.223] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.224] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 16:23:47.224] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:shadow_storm - 1
+[282月2025 16:23:47.224] [Server thread/INFO] [puresuffering/]: Invasion 2: puresuffering:arachnophobia - 1
+[282月2025 16:23:47.224] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 51, Max Possible Invasions: 2
+[282月2025 16:23:47.225] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.231] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.232] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 16:33:47.233] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:33:47.234] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.234] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:33:47.234] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 16:33:47.234] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:33:47.234] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 51, Max Possible Invasions: 2
+[282月2025 16:33:47.234] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 51, Max Possible Invasions: 2
+[282月2025 16:43:47.239] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.240] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 1
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:43:47.241] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 52, Max Possible Invasions: 2
+[282月2025 16:43:47.242] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.246] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.248] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.248] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.248] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:illusion_performance - 2
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 52, Max Possible Invasions: 2
+[282月2025 16:53:47.249] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 52, Max Possible Invasions: 2
+[282月2025 17:03:47.245] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 53, Max Possible Invasions: 2
+[282月2025 17:03:47.247] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.251] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.253] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.253] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:octoomba_game - 1
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 53, Max Possible Invasions: 2
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 17:13:47.254] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 53, Max Possible Invasions: 2
+[282月2025 17:23:47.256] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.256] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.256] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.256] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.257] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.257] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.257] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 54, Max Possible Invasions: 2
+[282月2025 17:23:47.257] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.252] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.253] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 17:33:47.253] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:undead - 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:hells_gate - 1
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 54, Max Possible Invasions: 2
+[282月2025 17:33:47.254] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 54, Max Possible Invasions: 2
+[282月2025 17:43:47.253] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Day: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Day: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Day: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Day: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Day: 55, Max Possible Invasions: 2
+[282月2025 17:43:47.254] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.257] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.257] [Server thread/INFO] [puresuffering/]: [super_block_world:mushroom_kingdom] Night: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: [shadowlands:glowshroom_forest] Night: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: [shadowlands:blood_forest] Night: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: [shadowlands:vellium] Night: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:frost_disaster - 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: [shadowlands:shadow_forest] Night: 55, Max Possible Invasions: 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:tank_battle - 2
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: ]
+[282月2025 17:53:47.258] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 55, Max Possible Invasions: 2
+[282月2025 18:01:25.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[282月2025 18:01:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[282月2025 18:01:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[282月2025 18:01:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[282月2025 18:01:25.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[282月2025 18:01:25.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/super_block_world:mushroom_kingdom
+[282月2025 18:01:25.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/shadowlands:glowshroom_forest
+[282月2025 18:01:25.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[282月2025 18:01:25.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/shadowlands:blood_forest
+[282月2025 18:01:25.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/shadowlands:vellium
+[282月2025 18:01:25.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/shadowlands:shadow_forest
+[282月2025 18:01:25.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mushroom_kingdom): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glowshroom_forest): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (blood_forest): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (vellium): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (shadow_forest): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[282月2025 18:01:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

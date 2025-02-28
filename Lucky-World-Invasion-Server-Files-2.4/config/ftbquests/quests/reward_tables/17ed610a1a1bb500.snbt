@@ -1,0 +1,13 @@
+{
+	id: "17ED610A1A1BB500"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ item: "lucky:lucky_block", weight: 50.0f }
+		{ item: "lucky:elergy_lucky_block", weight: 20.0f }
+		{ item: "lucky:eleice_lucky_block", weight: 10.0f }
+		{ item: "lucky:elefire_lucky_block", weight: 5.0f }
+		{ item: "lucky:elewind_lucky_block", weight: 20.0f }
+	]
+	title: "{ftbquests.loot_table.title10}"
+}

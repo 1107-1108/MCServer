@@ -1,0 +1,120 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_repeatable_quest: true
+	filename: "ddebugr"
+	group: ""
+	icon: "minecraft:command_block"
+	id: "53EF5AC56C34CDA7"
+	images: [
+		{
+			height: 1.5d
+			image: "minecraft:block/command_block_back"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/command_block_back"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/command_block_back"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/command_block_back"
+			rotation: 0.0d
+			width: 1.5d
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: ["{ftbquests.chapter.ddebugr.quest1.description1}"]
+			id: "63682904386BEE64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "746D7EA40B35542C"
+				table_id: 6624663805113886488L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "384CDD92076EA312"
+				title: "{ftbquests.chapter.ddebugr.quest1.task.title1}"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			description: ["{ftbquests.chapter.ddebugr.quest2.description1}"]
+			id: "2E37B3B40642CB31"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31FB2E211B11F174"
+				table_id: 4095070982704394919L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "2F0475443B7F9EEF"
+				title: "{ftbquests.chapter.ddebugr.quest2.task.title1}"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			description: ["{ftbquests.chapter.ddebugr.quest3.description1}"]
+			id: "39586FCBBD981B5A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4897A9D845ED7A3F"
+				table_id: 583569112055920493L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "56F2E8B45A07323A"
+				title: "{ftbquests.chapter.ddebugr.quest3.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["{ftbquests.chapter.ddebugr.quest4.description1}"]
+			id: "021329EFB999F74B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E0138024A18F179"
+				table_id: 6058210708184468440L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "73411B25E963D98B"
+				title: "{ftbquests.chapter.ddebugr.quest4.task.title1}"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+	title: "{ftbquests.chapter.ddebugr.title}"
+}

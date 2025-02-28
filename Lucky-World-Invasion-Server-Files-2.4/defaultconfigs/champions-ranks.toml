@@ -1,0 +1,80 @@
+[[ranks]]
+  tier = 0
+  numAffixes = 0
+  defaultColor = 0xffffff
+  chance = 1.0
+  growthFactor = 0
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 1
+  numAffixes = 1
+  defaultColor = 0xffff00
+  chance = 0.05
+  growthFactor = 1
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 2
+  numAffixes = 2
+  defaultColor = 0x66ffff
+  chance = 0.04
+  growthFactor = 4
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 3
+  numAffixes = 3
+  defaultColor = 0xcc33ff
+  chance = 0.025
+  growthFactor = 9
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 4
+  numAffixes = 4
+  defaultColor = 0xff9900
+  chance = 0.01
+  growthFactor = 16
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 5
+  numAffixes = 5
+  defaultColor = 0x00ff00
+  chance = 0.005
+  growthFactor = 25
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 6
+  numAffixes = 6
+  defaultColor = 0xff0000
+  chance = 0.002
+  growthFactor = 35
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 7
+  numAffixes = 5
+  defaultColor = 0xf9f4dc
+  chance = 0.0
+  growthFactor = 100
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 8
+  numAffixes = 8
+  defaultColor = 0x0f59a4
+  chance = 0.0
+  growthFactor = 50
+  effects = []
+  presetAffixes = []
+[[ranks]]
+  tier = 9
+  numAffixes = 8
+  defaultColor = 0xccff00
+  chance = 0.0
+  growthFactor = 100
+  effects = []
+  presetAffixes = []

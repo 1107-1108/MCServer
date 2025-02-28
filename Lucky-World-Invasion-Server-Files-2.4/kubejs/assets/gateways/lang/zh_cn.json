@@ -1,0 +1,82 @@
+{
+    "tooltip.gateways.scroll": "[滚轮翻页]",
+    "tooltip.gateways.shift": "[按住Shift以查看波次信息]",
+    "tooltip.gateways.ctrl": "[按住Ctrl以查看最终奖励]",
+    "tooltip.gateways.alt": "[按住Alt以查看规则变更]",
+	"tooltip.gateways.true": "已启用",
+    "tooltip.gateways.false": "禁用",
+
+	"tooltip.gateways.num_wave": "%s 波次",
+    "tooltip.gateways.num_waves": "%s 波次",
+    "tooltip.gateways.wave": "波次 %s/%s",
+
+	"tooltip.gateways.num_failures": "%s 惩罚",
+    "tooltip.gateways.num_failure": "%s 惩罚",
+    "tooltip.gateways.failures": "失败处罚",
+
+	"tooltip.gateways.num_rule": "%s 规则变更",
+    "tooltip.gateways.num_rules": "%s 规则变更",
+    "tooltip.gateways.rules": "规则变更",
+
+	"tooltip.gateways.key_rewards": "通关奖励",
+
+    "tooltip.gateways.endless.base_wave": "波次",
+    "tooltip.gateways.endless.num_modif": "%s 无尽修改器",
+    "tooltip.gateways.endless.num_modifs": "%s 无尽的修改器",
+    "tooltip.gateways.endless.modifier": "无尽修改器 %s/%s",
+    "tooltip.gateways.endless.wave_time": "%s 最大波次时间",
+    "tooltip.gateways.endless.setup_time": "%s 设置时间",
+
+	"boss.gateways.endless.top": "波次: %d/%d | 剩余时间： %d",
+    "boss.gateways.endless.bot": "敌人: %d/%d | 修改器 激活: %d",
+    "boss.gateways.endless.incoming": "敌人来袭: %d",
+
+	"reward.gateways.experience": "%s 经验",
+	"reward.gateways.summon": "生成 %s",
+
+	"failure.gateways.explosion": "爆炸半径 %s",
+    "failure.gateways.mob_effect": "%s",
+    "failure.gateways.summon": "生成 %s",
+    "failure.gateways.chance": "%s 几率 %s",
+
+	"rule.gateways.default": "[是 %s]",
+    "rule.gateways.spawn_range": "生成范围: %s",
+    "rule.gateways.leash_range": "拴绳范围: %s",
+    "rule.gateways.allow_discarding": "允许丢弃: %s",
+    "rule.gateways.allow_dim_change": "允许更改尺寸: %s",
+    "rule.gateways.player_damage_only": "仅对玩家造成伤害: %s",
+    "rule.gateways.remove_mobs_on_failure": "失败时移除暴民: %s",
+    "rule.gateways.fail_on_out_of_bounds": "超出边界失败: %s",
+    "rule.gateways.spacing": "控制: %s",
+
+	"error.gateways.entity_discarded": "传送门崩塌了，因为有一个实体没有被杀死就被移除了！",
+
+	"appmode.gateways.after_wave": "应用于波次 %s.",
+    "appmode.gateways.after_every_n_waves": "每隔 %s 波应用一次。最多应用 %s.",
+    "appmode.gateways.only_on_wave": "仅适用于波次 %s.",
+    "appmode.gateways.only_on_every_n_waves": "仅适用于每 %s 波.",
+
+    "modifier.gateways.gear_set": "装备 %s",
+
+	"gateways.basic/blaze": "烈焰人之门",
+	"gateways.basic/slime": "史莱姆之门",
+	"gateways.basic/enderman": "末影人之门",
+    
+	"gateways.emerald_grove": "翡翠林之门",
+    "gateways.overworldian_nights": "超凡夜之门",
+    "gateways.hellish_fortress": "地狱堡垒之门",
+
+    "gateways.endless/blaze": "无尽烈焰人之门",
+
+    "rewards.gateways.loot_table.simple_dungeon": "地牢战利品",
+    "rewards.gateways.loot_table.nether_bridge": "下界要塞战利品",
+
+    "name.gateways.necrotic_farmer": "亡灵农夫",
+    "name.gateways.undead_legionnaire": "亡灵军团",
+    "name.gateways.withered_ranger": "凋零游侠",
+    "name.gateways.butcher": "屠夫",
+    "name.gateways.huge_slime": "巨型史莱姆",
+    "name.gateways.magicbane_slime": "魔术史莱姆",
+    "name.gateways.acidic_slime": "酸性史莱姆",
+    "name.gateways.flaming_enderman": "火焰末影人"
+}

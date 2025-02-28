@@ -1,0 +1,684 @@
+{
+	autofocus_id: "3C901E0D5CF676A7"
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_repeatable_quest: true
+	disable_toast: true
+	filename: "42811896547CEC90"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: "minecraft:emerald"
+	id: "42811896547CEC90"
+	images: [
+		{
+			height: 5.0d
+			image: "minecraft:block/red_shulker_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:block/yellow_shulker_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:block/lime_shulker_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:block/magenta_shulker_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			description: ["{ftbquests.chapter.42811896547CEC90.quest1.description1}"]
+			id: "3C901E0D5CF676A7"
+			shape: "rsquare"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "7A293A8D55D3182E"
+				title: "{ftbquests.chapter.42811896547CEC90.quest1.task.title1}"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "lucky:lucky_world_invasion_lucky_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7C9D3524C66DCC5D"
+			rewards: [{
+				id: "27ABAAD55E1CBBF0"
+				item: {
+					Count: 1
+					id: "lucky:lucky_world_invasion_lucky_sword"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:vanishing_curse"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6F1440DB3BB08F03"
+					item: {
+						Count: 1
+						id: "lucky:lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F681E120EEEDD51"
+					item: {
+						Count: 1
+						id: "lucky:desert_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E60DDCFAF83D3B0"
+					item: {
+						Count: 1
+						id: "lucky:elemental_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40FC504A064B6E64"
+					item: {
+						Count: 1
+						id: "lucky:amongus_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E2DCAADA464CC7B"
+					item: {
+						Count: 1
+						id: "lucky:elergy_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00C9484850C38777"
+					item: {
+						Count: 1
+						id: "lucky:fire_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24173C530A27CFFD"
+					item: {
+						Count: 1
+						id: "lucky:elewind_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B09B8095CE420F6"
+					item: {
+						Count: 1
+						id: "lucky:pink_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24E843605FE7A767"
+					item: {
+						Count: 1
+						id: "lucky:summer_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35592FA8BA54DC9E"
+					item: {
+						Count: 1
+						id: "lucky:elefire_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "696AF9BD017BC9BD"
+					item: {
+						Count: 1
+						id: "lucky:eleice_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7FBECF17530EDCC6"
+					item: {
+						Count: 1
+						id: "lucky:morbius_lucky_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FA9AFC112272916"
+					item: "shadowlands:gold_coin"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.42811896547CEC90.quest2.title}"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3D8C6545C5E20DBE"]
+			disable_toast: true
+			icon: "endertrigon:baby_dragon_egg"
+			id: "3E93CAB807759D45"
+			rewards: [{
+				id: "4AECD6DF9B85A1C0"
+				item: "endertrigon:baby_dragon_egg"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "480B36B1EDC91089"
+					item: "quark:dragon_scale"
+					type: "item"
+				}
+				{
+					id: "788495DC4AC6BF2C"
+					item: "shadowlands:gold_coin"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.42811896547CEC90.quest3.title}"
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			id: "19B5171632C08B31"
+			rewards: [{
+				count: 5
+				id: "0D556C76DB6C89B7"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "255553D6DDCF0702"
+				item: "minecraft:dragon_egg"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			id: "792EC0F8D5BC3F1B"
+			rewards: [{
+				id: "2A121F89C87905A0"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37B6B3F2F13B6D7E"
+				item: "quark:dragon_scale"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			id: "1BDF8D78DCFAE4E8"
+			rewards: [{
+				count: 10
+				id: "397EC844C5D3DB9A"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "748207F004134A73"
+				item: "minecraft:dragon_head"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			id: "75CB7ADCDA0DBEE3"
+			rewards: [{
+				count: 2
+				id: "625D398A89F0D1C4"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 10L
+				id: "6D0E37690802F879"
+				item: "super_block_world:rainbow_tiles"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "2835951D2BB448F0"
+			rewards: [{
+				count: 5
+				id: "34DECB952B3D4683"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "019402991561A74E"
+				item: { Count: 5, id: "super_block_world:bronze_block" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			id: "34FACBE4433669CF"
+			rewards: [{
+				id: "25E34C0D74007C61"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48453DBAC1F95E10"
+				item: "lucky:lucky_world_invasion_lucky_block"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			id: "08548CF07EFFA88B"
+			rewards: [{
+				count: 5
+				id: "45ED5DD607F0455B"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2782A68C8E5A802F"
+				item: "super_block_world:power_star"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "5F629F7FC691B327"
+			rewards: [{
+				count: 10
+				id: "00BDFDA038A9BF7C"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "02CF1397C9E4746E"
+				item: "yakurum:ultra_sponge"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			icon: "lucky:tacz_lucky_block"
+			id: "5A8058E3BCAC8C30"
+			rewards: [{
+				count: 6
+				id: "26914B2E0EDDD734"
+				item: "lucky:tacz_lucky_block"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "141F4DF1A6E1561E"
+					item: {
+						Count: 1
+						id: "lucky:elergy_lucky_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3377F9E807125F7E"
+					item: {
+						Count: 1
+						id: "lucky:eleice_lucky_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1BB70548C01E5A4A"
+					item: {
+						Count: 1
+						id: "lucky:amongus_lucky_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1557CD6E3D9C24F8"
+					item: {
+						Count: 1
+						id: "lucky:elefire_lucky_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F893FF32A45B20D"
+					item: {
+						Count: 1
+						id: "lucky:desert_lucky_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46534D506A2A6A10"
+					item: {
+						Count: 1
+						id: "lucky:summer_lucky_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "457C451C92444428"
+					item: "shadowlands:silver_coin"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.42811896547CEC90.quest12.title}"
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			icon: "lucky:tacz_lucky_block"
+			id: "6997A70CEB12BC98"
+			rewards: [{
+				id: "34919AC96E37384B"
+				item: "lucky:tacz_lucky_block"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "68CD055AE7530998"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest13.title}"
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2892E46B09BE7061"]
+			icon: "shadowlands:void_orb"
+			id: "1DE15C9924E3C5AC"
+			rewards: [{
+				id: "1C179654E32C49A2"
+				item: "shadowlands:void_orb"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C5C23516A31750B"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest14.title}"
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			icon: "minecraft:gunpowder"
+			id: "5CA02DA1A4B9C61B"
+			rewards: [{
+				count: 5
+				id: "4B9859738D744B04"
+				item: "minecraft:gunpowder"
+				type: "item"
+			}]
+			tasks: [{
+				id: "63544A900F84A083"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest15.title}"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			icon: "lucky:lucky_block"
+			id: "43741EB0B0DC45D2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6665CAA71B5C2C43"
+				table_id: 1724140928368358656L
+				type: "random"
+			}]
+			tasks: [{
+				count: 5L
+				id: "19B54DAE2D6F9E0F"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest16.title}"
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			icon: "lucky:water_lucky_block"
+			id: "0107FE5C7EBF6979"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12FC29580D0C6F34"
+				table_id: 7661212676097740964L
+				type: "random"
+			}]
+			tasks: [{
+				count: 5L
+				id: "09A4A38F964A4C5F"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest17.title}"
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			id: "72DB7B084E247E5C"
+			rewards: [{
+				id: "71037660055733A8"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A224D52B6760486"
+				item: "super_block_world:star_coin"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "639C1498D41D4D8E"
+			rewards: [{
+				id: "0ECEDBF602D6F5EC"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "61FA1597E49DC23B"
+				item: { Count: 32, id: "shadowlands:copper_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			id: "08797D180A7FB9EF"
+			rewards: [{
+				id: "62E86710CE542FB6"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "7FF5DD0A83BF9C77"
+				item: { Count: 32, id: "shadowlands:silver_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:sharpness"
+						lvl: 10
+					}]
+				}
+			}
+			id: "540EF601CA271D87"
+			rewards: [{
+				id: "326E568221B14ED0"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:sharpness"
+							lvl: 10
+						}]
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "08F05C6CF0E963E2"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest21.title}"
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			icon: "relics:relic_experience_bottle"
+			id: "40D4C540441765AD"
+			rewards: [{
+				id: "018E1DCD7150ECA0"
+				item: "relics:relic_experience_bottle"
+				type: "item"
+			}]
+			tasks: [{
+				id: "067A668FB8C6CC8A"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.42811896547CEC90.quest22.title}"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			icon: "kubejs:bad_apple"
+			id: "0B7FD2AB22138FA7"
+			rewards: [{
+				id: "69C148DE222B4463"
+				item: "kubejs:bad_apple"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "5E0DF073C48D7BBA"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			title: "{item.kubejs.bad_apple}"
+			x: -4.5d
+			y: -2.5d
+		}
+	]
+	title: "{ftbquests.chapter.42811896547CEC90.title}"
+}

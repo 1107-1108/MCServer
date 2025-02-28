@@ -1,0 +1,13 @@
+{
+	id: "08194103F9FBB76D"
+	loot_size: 1
+	order_index: 1
+	rewards: [{
+		command: "/improvedmobs difficulty player @p set 0"
+		elevate_perms: true
+		icon: "minecraft:apple"
+		title: "难度清空"
+		type: "command"
+	}]
+	title: "{ftbquests.loot_table.title2}"
+}

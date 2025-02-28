@@ -1,0 +1,890 @@
+{
+	autofocus_id: "1C91A106D91138C6"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "112F5DB92B546247"
+	group: ""
+	icon: "lucky:lucky_block"
+	id: "112F5DB92B546247"
+	images: [
+		{
+			height: 1.0d
+			image: "lucky:block/amongus_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/desert_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/tacz_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/fire_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/water_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "fuze_relics:block/lucky_blockling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/pink_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/summer_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/elewind_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/morbius_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/elefire_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/eleice_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "lucky:block/elergy_lucky_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 2.5d
+			image: "lucky:block/elemental_lucky_block"
+			rotation: 0.0d
+			width: 2.5d
+			x: 0.0d
+			y: 3.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest1.description21}"
+			]
+			hide_dependent_lines: true
+			id: "1C91A106D91138C6"
+			rewards: [{
+				id: "6C105ED9DA06D89E"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "42DE32E03451530A"
+				item: "lucky:lucky_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest2.description21}"
+			]
+			id: "4E3F093C1EFAB025"
+			rewards: [{
+				id: "1C06544D551CD7C4"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2FA157A50388FD01"
+				item: "lucky:pink_lucky_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description20}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description21}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description22}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description23}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description24}"
+				"{ftbquests.chapter.112F5DB92B546247.quest3.description25}"
+			]
+			id: "275E8956401A30C2"
+			rewards: [{
+				id: "275FB58092B02BE7"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "11B764D24C4F241C"
+				item: "lucky:eleice_lucky_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description20}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description21}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description22}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description23}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description24}"
+				"{ftbquests.chapter.112F5DB92B546247.quest4.description25}"
+			]
+			id: "1DDA2F573F453F10"
+			rewards: [{
+				id: "56FC4022B1F67D1D"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C7A82098E94B239"
+				item: "lucky:elefire_lucky_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description20}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description21}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description22}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description23}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description24}"
+				"{ftbquests.chapter.112F5DB92B546247.quest5.description25}"
+			]
+			id: "0A7BB6B87EB38466"
+			rewards: [{
+				id: "1B93945CFCBE63CB"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C7E01E623177369"
+				item: "lucky:elergy_lucky_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description20}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description21}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description22}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description23}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description24}"
+				"{ftbquests.chapter.112F5DB92B546247.quest6.description25}"
+			]
+			id: "1E59FFBB169F16F7"
+			rewards: [{
+				id: "7823818B489FB62D"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46EC7F8C48D029C2"
+				item: "lucky:elewind_lucky_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"275E8956401A30C2"
+				"0A7BB6B87EB38466"
+				"1DDA2F573F453F10"
+				"1E59FFBB169F16F7"
+			]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest7.description21}"
+			]
+			id: "73003390131B4E3F"
+			rewards: [{
+				id: "1368CDD3ACA2B02C"
+				item: "shadowlands:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "02075517655A131C"
+				item: "lucky:elemental_lucky_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest8.description21}"
+			]
+			id: "22A766C5008A3FE5"
+			rewards: [{
+				id: "7577A6FF85443C3E"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D9B3952DD0DCA02"
+				item: "lucky:desert_lucky_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest9.description21}"
+			]
+			id: "58CFE9D9E00D6D27"
+			rewards: [{
+				id: "0543EB2290214823"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "18312C0969C533C0"
+				item: "lucky:fire_lucky_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest10.description21}"
+			]
+			id: "12061DB706E2D6D8"
+			rewards: [{
+				id: "5EEABD40844BE72B"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E99B4F96440BA0A"
+				item: "lucky:summer_lucky_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description12}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description15}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description16}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description19}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description21}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description22}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description23}"
+				"{ftbquests.chapter.112F5DB92B546247.quest11.description24}"
+			]
+			id: "754C81F285D224A8"
+			rewards: [{
+				id: "0E53A5F132CCE21B"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67EF7795640A7CB0"
+				item: "lucky:water_lucky_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description20}"
+				"{ftbquests.chapter.112F5DB92B546247.quest12.description21}"
+			]
+			id: "1F76786591480CDC"
+			rewards: [{
+				id: "34BCB0E769805F6D"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75FD9D5A689F4D83"
+				item: "lucky:morbius_lucky_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"73003390131B4E3F"
+				"754C81F285D224A8"
+				"1F76786591480CDC"
+				"12061DB706E2D6D8"
+				"4E3F093C1EFAB025"
+				"58CFE9D9E00D6D27"
+				"22A766C5008A3FE5"
+				"0996AF5CCB500015"
+			]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description9}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description12}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest13.description14}"
+			]
+			id: "05BC16170078D399"
+			rewards: [{
+				id: "77E8F86FE05B469B"
+				item: "shadowlands:gold_coin"
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "3BAF8F7C13A7647A"
+				item: "lucky:lucky_world_invasion_lucky_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1C91A106D91138C6"]
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description10}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description11}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description12}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description13}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description14}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description15}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description16}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description17}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description18}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description19}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description20}"
+				""
+				"{@pagebreak}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description21}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description22}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description23}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description24}"
+				"{ftbquests.chapter.112F5DB92B546247.quest14.description25}"
+			]
+			id: "0996AF5CCB500015"
+			rewards: [{
+				id: "77147F8D86ACC431"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "08225CFD34E4ED6F"
+				item: "lucky:amongus_lucky_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest15.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest15.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest15.description3}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest15.description4}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest15.description5}"
+				"{ftbquests.chapter.112F5DB92B546247.quest15.description6}"
+			]
+			id: "757B81AC0E9AE1A7"
+			rewards: [{
+				id: "5B60B8BF06F2E1BF"
+				item: "shadowlands:copper_coin"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "fuze_relics:lucky_blockling_render"
+				id: "25C5ABCA9078B2D5"
+				observe_type: 0
+				timer: 30L
+				title: "{ftbquests.chapter.112F5DB92B546247.quest15.task.title1}"
+				to_observe: "fuze_relics:lucky_blockling"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description1}"
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description2}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description3}"
+				""
+				"{@pagebreak}"
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description4}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description5}"
+				""
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description6}"
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description7}"
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description8}"
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description9}"
+				"{ftbquests.chapter.112F5DB92B546247.quest16.description10}"
+			]
+			id: "0B0DF4A07104DEA4"
+			tasks: [{
+				id: "431D1806E2840620"
+				item: "lucky:tacz_lucky_block"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+	title: "{ftbquests.chapter.112F5DB92B546247.title}"
+}

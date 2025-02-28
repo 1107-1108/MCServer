@@ -1,0 +1,13 @@
+onCull = false
+maxEntityEntities = 200
+entitiesDistance = 200
+QualityModes = "normal"
+RenderWeather = "low"
+RenderTNTExplosions = true
+FastItemRender = false
+RenderDisplayItem = false
+blackListedEntities = []
+whiteListedEntities = []
+isAlwaysShowItemCount = true
+startTime = 88.482
+chatFix = false

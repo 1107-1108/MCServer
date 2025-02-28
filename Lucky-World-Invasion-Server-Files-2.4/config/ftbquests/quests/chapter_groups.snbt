@@ -1,0 +1,6 @@
+{
+	chapter_groups: [
+		{ id: "7E80DA01FF9543AE", title: "{ftbquests.chapter_groups.title0}" }
+		{ id: "092B0FDFBC420A44", title: "{ftbquests.chapter_groups.title1}" }
+	]
+}

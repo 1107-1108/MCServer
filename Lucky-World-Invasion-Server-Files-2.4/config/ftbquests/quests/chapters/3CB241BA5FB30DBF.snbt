@@ -1,0 +1,221 @@
+{
+	autofocus_id: "68AA1C99BBE72DD5"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3CB241BA5FB30DBF"
+	group: "7E80DA01FF9543AE"
+	icon: "super_block_world:power_star"
+	id: "3CB241BA5FB30DBF"
+	images: [
+		{
+			height: 1.2d
+			image: "super_block_world:block/beanstalk"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "super_block_world:block/beanstalk_stem"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "super_block_world:block/cyan_warp_pipe"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2513A2454BC6CCDE"]
+			description: ["{ftbquests.chapter.3CB241BA5FB30DBF.quest1.description1}"]
+			id: "1290B271A77E74DE"
+			tasks: [{
+				id: "1562735BF1250055"
+				item: "super_block_world:shy_guy_mask"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2513A2454BC6CCDE"]
+			id: "5AB0181F0F39D531"
+			tasks: [{
+				id: "5BA7E67329C5750C"
+				item: "super_block_world:subcon_thread"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5AB0181F0F39D531"]
+			description: ["{ftbquests.chapter.3CB241BA5FB30DBF.quest3.description1}"]
+			id: "39E2355BF10158DD"
+			tasks: [{
+				id: "465EC639A833F101"
+				item: "super_block_world:warp_link"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["50C48EC5A65EE4D2"]
+			description: ["{ftbquests.chapter.3CB241BA5FB30DBF.quest4.description1}"]
+			id: "68AA1C99BBE72DD5"
+			shape: "rsquare"
+			tasks: [{
+				dimension: "super_block_world:mushroom_kingdom"
+				id: "238B6508EE601C12"
+				title: "{ftbquests.chapter.3CB241BA5FB30DBF.quest4.task.title1}"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68AA1C99BBE72DD5"]
+			description: ["{ftbquests.chapter.3CB241BA5FB30DBF.quest5.description1}"]
+			id: "5592403B445749D2"
+			tasks: [{
+				id: "15975B0CFFD6EC2B"
+				title: "{ftbquests.chapter.3CB241BA5FB30DBF.quest5.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["68AA1C99BBE72DD5"]
+			id: "13592CB1B3ECBF17"
+			tasks: [{
+				id: "5A9C205F0E169F6C"
+				title: "{ftbquests.chapter.3CB241BA5FB30DBF.quest6.task.title1}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68AA1C99BBE72DD5"]
+			id: "6FDDC6BFE3CCC090"
+			tasks: [{
+				id: "21E99C73FA663E97"
+				title: "{ftbquests.chapter.3CB241BA5FB30DBF.quest7.task.title1}"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["68AA1C99BBE72DD5"]
+			id: "2513A2454BC6CCDE"
+			tasks: [{
+				id: "36042A7C49045197"
+				title: "{ftbquests.chapter.3CB241BA5FB30DBF.quest8.task.title1}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5AB0181F0F39D531"]
+			id: "72D3C2BB227DE61C"
+			tasks: [{
+				id: "27EAD4F98657A889"
+				item: "super_block_world:warp_painting"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6FDDC6BFE3CCC090"]
+			id: "11584EBFE2031636"
+			tasks: [{
+				id: "45E65B24EDEAD489"
+				item: "super_block_world:bronze_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6FDDC6BFE3CCC090"]
+			id: "1EB94A99E0E65FBB"
+			tasks: [{
+				id: "15A2A9E730CEBE30"
+				item: "super_block_world:moon_rock"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2513A2454BC6CCDE"]
+			id: "442E35F7ED26B9CB"
+			tasks: [{
+				id: "07E94C45169AF346"
+				item: "super_block_world:bomb"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2513A2454BC6CCDE"]
+			description: ["{ftbquests.chapter.3CB241BA5FB30DBF.quest13.description1}"]
+			id: "3705FE0BA26C33C0"
+			tasks: [{
+				id: "05F97FCDA3353164"
+				item: "super_block_world:trampoline"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6FDDC6BFE3CCC090"]
+			id: "7914AD6C6FE41314"
+			tasks: [{
+				id: "1AD1FBD352E63324"
+				item: "super_block_world:royalite_shard"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13592CB1B3ECBF17"]
+			id: "7014171AA91A30F8"
+			rewards: [{
+				id: "6BF311BC5F5D53AA"
+				item: "super_block_world:launch_star"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "super_block_world:beanstalk"
+				id: "2FF1ED97F641B701"
+				observe_type: 0
+				timer: 30L
+				title: "{ftbquests.chapter.3CB241BA5FB30DBF.quest15.task.title1}"
+				to_observe: "super_block_world:beanstalk"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+	title: "{ftbquests.chapter.3CB241BA5FB30DBF.title}"
+}

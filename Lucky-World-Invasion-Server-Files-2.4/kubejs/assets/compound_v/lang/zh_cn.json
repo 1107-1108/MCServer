@@ -1,0 +1,19 @@
+{
+  "effect.compound_v.speedster": "化合物V",
+  "effect.compound_v.night_vision": "化合物V",
+  "effect.compound_v.levitation": "化合物V",
+  "effect.compound_v.floating": "化合物V",
+  "effect.compound_v.invincible": "化合物V",
+  "effect.compound_v.invisibility": "化合物V",
+  "effect.compound_v.deep": "化合物V",
+  "effect.compound_v.uncontrolled_teleport": "化合物V",
+  "effect.compound_v.slowness": "化合物V",
+  "effect.compound_v.charging": "充能",
+  "item.compound_v.compound_v": "化合物V",
+  "item.compound_v.temp_v": "临时化合物V",
+  "effect.compound_v.generic": "化合物V",
+  "key.category.compound_v.activate_power": "激活力量",
+  "effect.compound_v.teleport": "化合物V",
+  "key.category.compound_v.compound_v": "化合物V",
+  "effect.compound_v.atom_charging": "化合物V"
+}

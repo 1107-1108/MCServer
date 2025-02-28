@@ -1,0 +1,17 @@
+{
+	id: "8986f649-a8c7-4640-bfd8-16d0f05c67a1"
+	type: "player"
+	player_name: "TC_yx127"
+	ranks: {
+		8986f649-a8c7-4640-bfd8-16d0f05c67a1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TC_yx127"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59AC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
