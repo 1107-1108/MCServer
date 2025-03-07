@@ -1,0 +1,22 @@
+{
+	id: "e880ab48-daec-4a1d-b005-a531ac598b67"
+	type: "party"
+	owner: "915af5f8-7ace-47b8-ab6c-efbf12919455"
+	ranks: {
+		915af5f8-7ace-47b8-ab6c-efbf12919455: "owner"
+		8986f649-a8c7-4640-bfd8-16d0f05c67a1: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "MtOlLM's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740950375214L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MtOlLM\"}]}" }
+		{ from: "915af5f8-7ace-47b8-ab6c-efbf12919455", date: 1740950375220L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"TC_yx127\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740950377963L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TC_yx127\"}]}" }
+	]
+	extra: { }
+}

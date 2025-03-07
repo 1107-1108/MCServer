@@ -1,0 +1,21 @@
+{
+	id: "c970bc96-ebb7-4e1c-98bc-4d6d5ded33ff"
+	type: "party"
+	owner: "0286fc8f-0ad9-448c-8274-6fbe2817f650"
+	ranks: {
+		0286fc8f-0ad9-448c-8274-6fbe2817f650: "owner"
+		915af5f8-7ace-47b8-ab6c-efbf12919455: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "1107_1108's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740861306831L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"1107_1108\"}]}" }
+		{ from: "0286fc8f-0ad9-448c-8274-6fbe2817f650", date: 1740861306840L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MtOlLM\"}]}" }
+	]
+	extra: { }
+}

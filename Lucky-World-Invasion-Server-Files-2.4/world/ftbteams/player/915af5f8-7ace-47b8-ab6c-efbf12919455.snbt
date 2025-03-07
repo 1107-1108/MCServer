@@ -2,9 +2,7 @@
 	id: "915af5f8-7ace-47b8-ab6c-efbf12919455"
 	type: "player"
 	player_name: "MtOlLM"
-	ranks: {
-		915af5f8-7ace-47b8-ab6c-efbf12919455: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "MtOlLM"
 		"ftbteams:description": ""

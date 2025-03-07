@@ -2,9 +2,7 @@
 	id: "0286fc8f-0ad9-448c-8274-6fbe2817f650"
 	type: "player"
 	player_name: "1107_1108"
-	ranks: {
-		0286fc8f-0ad9-448c-8274-6fbe2817f650: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "1107_1108"
 		"ftbteams:description": ""

@@ -2,9 +2,7 @@
 	id: "8986f649-a8c7-4640-bfd8-16d0f05c67a1"
 	type: "player"
 	player_name: "TC_yx127"
-	ranks: {
-		8986f649-a8c7-4640-bfd8-16d0f05c67a1: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "TC_yx127"
 		"ftbteams:description": ""
